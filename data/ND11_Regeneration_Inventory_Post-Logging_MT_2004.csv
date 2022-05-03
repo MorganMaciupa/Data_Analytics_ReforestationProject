@@ -1,0 +1,1506 @@
+This Filename: ,Regneration_Inventory_Post-Logging_MT 2004.xls,,
+Date Created:,,,
+Team ID:,ND-11,,
+
+
+Data contact,Carlos Passos,,
+Data were collected in a one time inventory done in January 2004,,,
+
+
+
+Column,Column headings,Units,Descriptions
+1,ID_number,,Each tree measured within a study sub-plot was given a unique id number
+2,Month_year,MMM-YY,Month and year of measurements
+3,Common_name,,
+4,Scientific_name,,
+5,Family,,
+6,Life_form, ,Tree or palm,,,,,,,,,,,
+7,Transect,,Transect id (x coordinate on the study area figure),,,,,,,,,,,
+8,Sub_plot,,Sub-plot id ( y coordinate on the study area figure),,,,,,,,,,,
+9,Treatment,,RILVI = reduced impact logging in 1998 with vines left intact; RILVR = reduced impact logging in 1998 with vines cut prior to logging; CONT. = no logging,,,,,,,,,,,
+10,DBH,centimeters,Diameter at breast height (DBH) measured at 1.3 m height,,,,,,,,,,,
+11,Commercial_Ht,meters,commerical height,,,,,,,,,,,
+12,Tree_Ht,meters,total height,,,,,,,,,,,
+13,Canopy_position,,"A= emergent, B= canopy, C= sub-canopy, D= mid-canopy, E= understory",,,,,,,,,,,
+14,Trunk_quality,,"A= good, B= average, C= poor, D= no commercial value",,,,,,,,,,,
+15,Observations,,field notes,,,,,,,,,,,
+
+
+ID_number,Month_year,Common_name,Scientific_name,Family,Life_form,Transect,Sub_plot,Treatment,DBH,Commercial_Ht,Tree_Ht,Canopy_position,Trunk_quality,Observations
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,47,8,18,C,A,None
+2,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,E,35,RILVI,37.5,9,12,C,A,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,35,RILVI,99,10,22,B,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,58,9,18,C,A,None
+5,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,35,RILVI,51,5,16,C,B,None
+6,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,35,RILVI,41,3,10,E,C,None
+7,Jan-04,Itauba,Mezilaurus itauba (Meisn.) Taub. Ex Mez,Lauraceae,tree,E,35,RILVI,38,18,20,B,A,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,39,6,15,C,B,None
+9,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,35,RILVI,46.7,10,14,C,B,None
+10,Jan-04,Sumauma,Ceiba samauma K. Schum.,Bombacaceae,tree,E,35,RILVI,64,10,18,B,B,standing dead
+11,Jan-04,Dente-de-mico,Not provided,Not provided,tree,E,35,RILVI,91,10,20,B,A,None
+12,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,35,RILVI,39.5,13,10,C,C,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,35,RILVI,52.5,7,12,C,C,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,57.5,7,12,C,B,leaning
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,45,8,13,C,C,None
+16,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,E,35,RILVI,72.5,22,27,A,A,None
+17,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,E,35,RILVI,99,4,19,B,D,None
+18,Jan-04,Dente-de-mico,Not provided,Not provided,tree,E,35,RILVI,62,12,19,B,B,None
+19,Jan-04,Quina-doce,Antonia sp,Loganiaceae,tree,E,35,RILVI,81,12,20,B,C,None
+20,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,41,6,12,C,B,None
+21,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,35,RILVI,51,5,13,D,D,broken off
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,81.5,6,19,B,B,None
+23,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,35,RILVI,48,7,20,B,B,None
+24,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,35,RILVI,41.5,8,18,C,B,None
+25,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,35,RILVI,33,7,12,D,A,None
+26,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,35,RILVI,103,6,25,A,A,None
+27,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,35,RILVI,103,10,20,B,A,None
+1,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,26,RILVI,180,12,27,A,B,leaning
+2,Jan-04,Guanandi,Calophyllum brasiliensis Cambess.,Guttiferae,tree,H,26,RILVI,162,23,27,A,A,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,26,RILVI,107,10,23,B,B,None
+4,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,26,RILVI,110.5,12,20,B,A,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,26,RILVI,114,4,18,C,B,None
+24,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,28,RILVI,150,3,18,B,C,None
+25,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,28,RILVI,125,4,4,D,D,broken off
+26,Jan-04,Jambo,Eugenia sp,Myrtaceae,tree,H,28,RILVI,141,8,22,A,A,None
+27,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,28,RILVI,98,18,25,A,B,termites
+28,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,H,28,RILVI,92,11,24,A,B,None
+29,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,28,RILVI,94,6,18,B,A,None
+30,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,28,RILVI,113,4,20,B,A,None
+31,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,H,28,RILVI,142,10,30,A,A,None
+32,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,28,RILVI,170,17,21,A,C,leaning
+1,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,29,RILVI,41.5,151,16,C,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,62,11,18,C,C,leaning
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,63,7,24,B,A,None
+4,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,29,RILVI,96,22,27,A,A,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,63,8,16,C,B,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,42,4,13,D,C,None
+7,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,29,RILVI,38.5,4,12,D,C,None
+8,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,H,29,RILVI,182,12,22,B,A,None
+9,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,H,29,RILVI,99,21,24,B,B,None
+10,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,29,RILVI,42,18,24,B,B,None
+11,Jan-04,Not identified,Not provided,Not provided,Not provided,H,29,RILVI,48,6,6,E,D,leaning
+12,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,44,7,16,C,C,None
+13,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,50,6,16,D,B,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,41.5,7,9,E,A,None
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,96,7,20,B,B,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,52,8,16,C,B,None
+17,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,50,8,20,B,B,None
+18,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,29,RILVI,81,7,22,B,A,None
+19,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H,29,RILVI,47.3,20,24,B,B,None
+20,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,29,RILVI,80,15,19,B,A,None
+21,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,47.5,3,12,C,C,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,78.5,6,18,C,B,broken off
+23,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,29,RILVI,92,10,18,B,B,None
+1,Jan-04,Angico,Anadenanthera macrocarpa (Bentham) Brenan,Mimosaceae,tree,H,30,RILVI,93,7,25,B,B,leaning
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,30,RILVI,131,7,10,B,B,None
+3,Jan-04,Angico,Anadenanthera macrocarpa (Bentham) Brenan,Mimosaceae,tree,H,30,RILVI,104,7,15,B,C,broken off
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,30,RILVI,113,6,18,B,C,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,30,RILVI,122,8,23,B,D,None
+6,Jan-04,Angico,Anadenanthera macrocarpa (Bentham) Brenan,Mimosaceae,tree,H,30,RILVI,92,9,24,B,A,None
+7,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,H,30,RILVI,141.5,8,24,B,B,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,30,RILVI,101.5,7,24,B,A,None
+1,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,H,32,RILVI,100,18,25,B,B,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,37,10,15.5,C,B,None
+2,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,93,11,16,B,A,None
+3,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H,33,RILVI,65,11,20,B,A,None
+4,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,H,33,RILVI,36,5,7,D,C,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,40,9,13,C,B,None
+6,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,33,RILVI,61,15,25,B,A,None
+7,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,33,RILVI,46,8,15,C,A,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,45,4,8,D,C,None
+9,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,33,RILVI,73,15,22,B,A,None
+10,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,33,RILVI,93,8,22,B,A,None
+11,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,33,RILVI,68,7,18,D,A,None
+12,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,90,9,20,C,B,None
+13,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H,33,RILVI,107,12,25,B,A,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,36,10,10,E,C,None
+15,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,H,33,RILVI,70,10,25,E,A,leaning
+16,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,50,4,4,D,D,broken off
+17,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,46,7,13,E,B,leaning
+18,Jan-04,Dente-de-mico,Not provided,Not provided,tree,H,33,RILVI,162,9,25,D,D,leaning
+19,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,33,RILVI,75,11,18,C,A,None
+20,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,33,RILVI,99,7,25,C,C,None
+21,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,33,RILVI,35,3.5,7.5,E,C,leaning
+22,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,33,RILVI,101,9,18,B,B,None
+23,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,H,33,RILVI,342,10,25,A,A,None
+24,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,48,6,11,D,A,None
+25,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,47,5,11,D,A,None
+26,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,33,RILVI,36,5,8,E,C,None
+27,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,33,RILVI,41,3,6,E,A,None
+28,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,33,RILVI,60,10,29,B,B,None
+29,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,35,5,5,E,C,broken off
+30,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H,33,RILVI,58,5,18,B,A,None
+31,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,33,RILVI,64.5,18,25,B,A,None
+32,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,42,3,8,E,A,broken off
+33,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,33,RILVI,78,9,22,B,A,None
+34,Jan-04,Limaozinho,Rheedia sp,Clusiaceae,tree,H,33,RILVI,55,6,15,C,A,None
+35,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,34,5,8,E,B,None
+36,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,33,RILVI,37.5,8,15,D,A,None
+37,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,33,RILVI,73,7,15,D,C,None
+38,Jan-04,Not identified,Not provided,Not provided,Not provided,H,33,RILVI,35.7,3,8,E,A,None
+39,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,33,RILVI,33.5,4,7,E,D,None
+40,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,33,RILVI,84,13,15,C,A,None
+41,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,46,2.5,8,C,C,bifurcated stem
+42,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,H,33,RILVI,50,8,10,C,B,None
+43,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,33,RILVI,41,3,6,C,D,bifurcated stem
+44,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,33,RILVI,34,3,8,C,B,None
+45,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H,33,RILVI,37,5,7,E,B,None
+46,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,33,RILVI,47,7,10,D,A,None
+47,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,38.5,7,10,D,A,None
+48,Jan-04,Escova-de-macaco/Pente-de-mico,Apeiba sp,Tiliaceae,tree,H,33,RILVI,89,4,15,C,B,None
+49,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,39,4,8,E,C,None
+50,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,49,5,10,D,B,None
+51,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,33,RILVI,36,7,15,C,B,None
+52,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,33,RILVI,38.5,5,8,D,B,None
+53,Jan-04,Not identified,Not provided,Not provided,Not provided,H,33,RILVI,37,7,15,C,B,None
+54,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H,33,RILVI,40.4,5,16,C,A,None
+55,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,52.2,8,15,C,A,None
+56,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,33,RILVI,47,22,25,E,A,None
+57,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,33,RILVI,50,6,10,D,B,None
+58,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,33,RILVI,43.5,4,8,D,C,None
+59,Jan-04,Bajao,Parkia paraensis Ducke,Mimosaceae,tree,H,33,RILVI,47.5,7,11,C,A,None
+60,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,33,RILVI,38.5,1.8,5,E,D,bifurcated stem
+61,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,33,RILVI,38,5,8,E,C,None
+62,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,H,33,RILVI,37,3,11,A,D,bifurcated stem
+63,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,33,RILVI,51,22,24,B,A,None
+64,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,34.7,5,8,D,B,None
+65,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,33,RILVI,64,6,18,B,D,fallen
+66,Jan-04,Caixeta,Simaruba amara Aubl.,Simaroubaceae,tree,H,33,RILVI,35,6,11,C,A,None
+67,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,33,RILVI,38,10,15,C,D,standing dead
+68,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,33,RILVI,56,5,18,B,A,None
+69,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,33,RILVI,84,22,25,A,A,None
+70,Jan-04,Orelha-de-macaco,Enterolobium sp,Mimosaceae,tree,H,33,RILVI,59,7,18,B,C,None
+1,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,H,34,RILVI,47,12,18,D,B,None
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,H,34,RILVI,33,15,19,D,C,None
+2,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,34,RILVI,41,2,15,D,C,None
+3,Jan-04,Not identified,Not provided,Not provided,Not provided,H,34,RILVI,53.5,7,7,E,D,broken off
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,34,RILVI,36,10,16,C,C,None
+5,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,34,RILVI,54.5,14,17,C,C,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,34,RILVI,78.5,10,17.5,C,B,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,34,RILVI,38.5,8,16,D,B,None
+8,Jan-04,Not identified,Not provided,Not provided,Not provided,H,34,RILVI,54,18,20,B,B,None
+9,Jan-04,Not identified,Not provided,Not provided,Not provided,H,34,RILVI,44,10,11,D,C,broken off
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,34,RILVI,55,12,17.5,C,B,None
+11,Jan-04,Itauba,Mezilaurus itauba (Meisn.) Taub. Ex Mez,Lauraceae,tree,H,34,RILVI,37,17,21,B,B,None
+12,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,34,RILVI,52.5,5.5,15.5,D,C,fallen
+1,Jan-04,Louro,Ocotea sp,Lauraceae,tree,H ,35,RILVI,46,20,2,B,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,83.5,14,20,B,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,59.5,13,18.5,C,A,None
+4,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,H ,35,RILVI,185,9,26,A,A,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H ,35,RILVI,38,13,18,C,A,None
+6,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H ,35,RILVI,43,17,21,C,A,None
+7,Jan-04,Cachimbeiro,Couratari sp,Lecythidaceae,tree,H ,35,RILVI,40.5,18,22,C,A,None
+8,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H ,35,RILVI,33.5,9,15,D,B,None
+9,Jan-04,Not identified,Not provided,Not provided,Not provided,H ,35,RILVI,52,16,20,C,B,bifurcated stem
+10,Jan-04,Bacuri,Synphonia sp,Clusiaceae,tree,H ,35,RILVI,46,20,24,B,B,None
+11,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H ,35,RILVI,40.5,9.5,14,D,B,None
+12,Jan-04,Figueira-rosa,Ficus sp,Moraceae,tree,H ,35,RILVI,115,19,21,B,B,None
+13,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,H ,35,RILVI,72,5.5,18,C,C,None
+14,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H ,35,RILVI,43,20,23,B,A,None
+15,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H ,35,RILVI,65,24,26,A,A,None
+16,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,H ,35,RILVI,34.5,13,17,D,A,None
+17,Jan-04,Not identified,Not provided,Not provided,Not provided,H ,35,RILVI,46.5,17,21,C,B,None
+18,Jan-04,Figueira-rosa,Ficus sp,Moraceae,tree,H ,35,RILVI,135,17,23,B,A,None
+19,Jan-04,Not identified,Not provided,Not provided,Not provided,H ,35,RILVI,34.5,13,16,D,D,None
+20,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H ,35,RILVI,46.5,12.5,17,C,B,None
+21,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,36,11,16.5,D,B,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,34.5,9,14,D,A,None
+23,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,39,10,18,D,B,None
+24,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,54.5,14,19,D,A,None
+25,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,94,11.5,19,B,B,None
+26,Jan-04,Not identified,Not provided,Not provided,Not provided,H ,35,RILVI,58,11,18,C,A,None
+27,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H ,35,RILVI,58.5,12,17,C,B,None
+1,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,6,RILVR,170,4,12,D,A,None
+1,Jan-04,Ipe-roxo,Tabebuia vellosoi Toledo,Bignoniaceae,tree,I,7,RILVR,51,20,24,C,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,7,RILVR,51,7.5,17,D,A,None
+3,Jan-04,Not identified,Not provided,Not provided,Not provided,I,7,RILVR,220,25,30,A,A,None
+4,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,7,RILVR,83,20,24,B,A,None
+5,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,I,7,RILVR,71,16,22,D,D,None
+6,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,7,RILVR,54,15,20,D,A,None
+7,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,7,RILVR,35,5,11,D,B,None
+8,Jan-04,Parica/pinho-cuiabano,Schizolubium amazonicum (Huber) Ducke,Caesalpinaceae,tree,I,7,RILVR,305,24,30,A,B,None
+9,Jan-04,Not identified,Not provided,Not provided,Not provided,I,7,RILVR,58,5.5,14,D,A,None
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,7,RILVR,132,6,25,B,A,bifurcated stem
+11,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,I,7,RILVR,104,25,30,A,A,None
+12,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,7,RILVR,42,13,16,E,B,None
+13,Jan-04,Not identified,Not provided,Not provided,Not provided,I,7,RILVR,95,18,21,B,B,None
+14,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,7,RILVR,33,4,14,E,A,None
+15,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,7,RILVR,90,12,22,B,A,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,7,RILVR,70,14,19,B,A,None
+17,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,7,RILVR,56,18,23,B,A,None
+18,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,I,7,RILVR,300,27,33,A,A,None
+1,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,I,8,RILVR,550,23,27,A,A,vine
+2,Jan-04,Mutamba/Piriquiteira,Trema micrantha (L.) Blume,Ulmaceae,tree,I,8,RILVR,150,21,25,B,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,8,RILVR,45,10,20,C,B,None
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,I,9,RILVR,40,5.5,13,D,C,None
+2,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,9,RILVR,45,4.5,12,D,B,None
+3,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,9,RILVR,42,7,14,B,B,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,9,RILVR,137,10,22,A,A,None
+5,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,9,RILVR,80,7,18,E,B,None
+6,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,9,RILVR,90,3,8.5,A,E,None
+7,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,9,RILVR,35,3,10,B,B,None
+8,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,9,RILVR,35,14,16,C,A,None
+9,Jan-04,Bajao,Parkia paraensis Ducke,Mimosaceae,tree,I,9,RILVR,195,20,25,A,A,None
+10,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,I,9,RILVR,40,55,12,D,B,None
+11,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,9,RILVR,65,7,16,B,C,None
+12,Jan-04,Garrote,Bagassa guianensis Aubl.,Moraceae,tree,I,9,RILVR,40,12,4,D,C,None
+13,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,I,9,RILVR,35,3.5,8,E,D,None
+14,Jan-04,Not identified,Not provided,Not provided,Not provided,I,9,RILVR,36,3.2,5,E,D,None
+15,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,9,RILVR,40,3,12.5,D,C,None
+16,Jan-04,Garapeira,Apuleia sp,Caesalpinaceae,tree,I,9,RILVR,310,1.8,24,A,A,C/ Catana
+17,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,9,RILVR,40,7,13,D,B,None
+18,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,9,RILVR,33,12,14,C,A,None
+19,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,9,RILVR,97,10,18,B,C,None
+20,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,9,RILVR,40,5,9,D,B,None
+21,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,9,RILVR,47,8,10,D,C,None
+22,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,9,RILVR,48,164,10,E,D,None
+23,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,9,RILVR,88,18,22,B,A,None
+24,Jan-04,Bajao,Parkia paraensis Ducke,Mimosaceae,tree,I,9,RILVR,77,19,23,B,B,None
+25,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,I,9,RILVR,50,17,20,C,B,None
+26,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,I,9,RILVR,36,12.5,14.5,D,A,None
+27,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,9,RILVR,138,3.5,5.5,E,A,None
+28,Jan-04,Not identified,Not provided,Not provided,Not provided,I,9,RILVR,40,4,11,D,D,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,10,RILVR,121,8,24,A,B,None
+2,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,10,RILVR,180,18,25,A,A,None
+3,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,I,10,RILVR,184,20,23,B,A,None
+1,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,11,RILVR,43,5.5,9.5,D,C,None
+2,Jan-04,Not identified,Not provided,Not provided,Not provided,I,11,RILVR,47,5.5,10,D,A,None
+3,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,I,11,RILVR,93,20,25,B,B,None
+4,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,11,RILVR,66,5.5,16,C,A,None
+5,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,11,RILVR,39,14,16.5,C,C,None
+6,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,11,RILVR,43,4,9,D,D,bifurcated stem
+7,Jan-04,Not identified,Not provided,Not provided,Not provided,I,11,RILVR,51,8.5,16,C,B,None
+8,Jan-04,Canela-louro,Ocotea sp,Lauraceae,tree,I,11,RILVR,34,12,17,C,A,None
+9,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,11,RILVR,36,5.5,9,D,A,leaning
+10,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,11,RILVR,41,8.5,10.5,D,A,None
+11,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,11,RILVR,45,5.5,16,D,A,bifurcated stem
+12,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,11,RILVR,47,12.5,12,C,BA,None
+13,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,11,RILVR,55,5.5,18.5,C,B,None
+14,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,11,RILVR,125,14,12,B,A,None
+15,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,11,RILVR,52,6,17,C,A,None
+16,Jan-04,Not identified,Not provided,Not provided,Not provided,I,11,RILVR,40,14.5,10,B,A,None
+17,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,11,RILVR,56,4.3,20,D,B,None
+18,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,11,RILVR,53,14.5,18.5,B,B,None
+19,Jan-04,Embireira-da-casca-grossa,Not provided,Not provided,tree,I,11,RILVR,40,16,15,C,A,None
+20,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,11,RILVR,80,5.5,5,C,B,broken off
+21,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,11,RILVR,81,10.5,17,B,B,None
+22,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,11,RILVR,38,18.5,22,A,A,None
+23,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,11,RILVR,44,3.5,12,D,C,None
+24,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,11,RILVR,72,6,17,C,A,None
+25,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,11,RILVR,41,5.5,10.5,D,B,None
+26,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,I,11,RILVR,112,16.5,22,A,A,None
+27,Jan-04,Not identified,Not provided,Not provided,Not provided,I,11,RILVR,51,10,14,D,A,None
+28,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,11,RILVR,46,2.5,12.5,D,C,None
+29,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,11,RILVR,90,6,12.5,D,D,None
+30,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,11,RILVR,44,4.5,12,D,B,None
+1,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,12,RILVR,48,22,25,B,A,None
+2,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,12,RILVR,35.7,27,30,D,A,leaning
+3,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,12,RILVR,45.2,30,33,A,A,None
+4,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,12,RILVR,46.7,25,28,B,A,None
+5,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,12,RILVR,45,17,15,D,B,None
+6,Jan-04,Jatoba,Hymenaea sp,Caesalpinaceae,tree,I,12,RILVR,240,20,30,A,B,None
+7,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,12,RILVR,38.7,6,15,D,C,None
+8,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,I,12,RILVR,160,20,30,A,B,None
+9,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,12,RILVR,72.5,7,15,D,C,None
+10,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,12,RILVR,47.5,8,15,D,A,None
+11,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,12,RILVR,45.3,3.5,13.5,D,B,None
+12,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,12,RILVR,35.2,8.5,12.5,D,A,None
+13,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,12,RILVR,39.9,6,11,D,B,None
+14,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,12,RILVR,35.7,4.5,10.5,D,A,None
+15,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,12,RILVR,47,6.5,9.5,D,B,None
+16,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,12,RILVR,45,8,15,C,A,None
+17,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,12,RILVR,33.5,8,11,D,A,None
+18,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,12,RILVR,136,3,18,D,A,None
+19,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,12,RILVR,70,12,19,C,D,None
+20,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,12,RILVR,49,12,19,C,B,None
+21,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,I,12,RILVR,150,15,25,A,A,None
+22,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,12,RILVR,67,8,12,C,B,None
+23,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,I,12,RILVR,44,7,10,D,C,None
+24,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,12,RILVR,67.7,10,22,B,B,None
+25,Jan-04,Araca,Psidium sp,Myrtaceae,tree,I,12,RILVR,116,22,27,B,A,None
+26,Jan-04,Araca,Psidium sp,Myrtaceae,tree,I,12,RILVR,89,20,24,B,B,None
+27,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,12,RILVR,44.5,4.5,9,D,C,None
+28,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,I,12,RILVR,51.5,7.5,12,C,C,None
+29,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,12,RILVR,62,4.5,7.5,C,B,None
+30,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,12,RILVR,44.7,3.5,10,C,D,None
+31,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,12,RILVR,36,8.5,12,C,B,None
+32,Jan-04,Embireira-preta,Guatteria sp,Annonaceae,tree,I,12,RILVR,56,12,16,A,A,None
+33,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,12,RILVR,47,20,23,A,A,None
+34,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,12,RILVR,96,20,24,B,C,bifurcated stem
+35,Jan-04,Embireira-da-casca-grossa,Not provided,Not provided,tree,I,12,RILVR,34,6.5,8.5,C,B,broken off
+1,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,13,RILVR,78,5.5,14,B,A,None
+2,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,13,RILVR,70.7,30,32,A,A,None
+3,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,13,RILVR,47,9,14,C,A,None
+4,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,13,RILVR,73.5,6,12,C,B,None
+5,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,13,RILVR,53.5,5.5,10.5,C,B,leaning
+6,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,I,13,RILVR,38,9,12,C,B,None
+7,Jan-04,Canela-louro,Ocotea sp,Lauraceae,tree,I,13,RILVR,41.3,10,14,B,B,None
+8,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,I,13,RILVR,39,12,16,B,A,None
+9,Jan-04,Seringarana,Sapium sp,Euphorbiaceae,tree,I,13,RILVR,43.9,12.5,16.5,B,A,None
+10,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,13,RILVR,40,12,16,B,A,None
+11,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,13,RILVR,85,8,14,C,A,None
+12,Jan-04,Not identified,Not provided,Not provided,Not provided,I,13,RILVR,33,3.5,12.5,C,B,None
+13,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,13,RILVR,52.7,3,9.5,D,B,None
+14,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,13,RILVR,85,5.5,13,B,B,None
+15,Jan-04,Murumuru,Astrocaryum sp,Arecaceae,palm,I,13,RILVR,47,5,7.5,E,A,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,13,RILVR,53.9,6.5,20,B,B,None
+17,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,13,RILVR,118,20,30,A,A,None
+18,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,13,RILVR,34.2,4.5,10.5,D,C,None
+19,Jan-04,Not identified,Not provided,Not provided,Not provided,I,13,RILVR,37,12,16,B,A,None
+20,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,13,RILVR,65.3,5.5,15,B,D,None
+21,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,13,RILVR,52,12,16,B,A,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,13,RILVR,34.5,6.5,12.5,C,A,None
+23,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,13,RILVR,53,18,20,A,A,None
+24,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,13,RILVR,100,15,25,B,A,None
+25,Jan-04,Not identified,Not provided,Not provided,Not provided,I,13,RILVR,41,6,10,D,B,None
+26,Jan-04,Louro,Ocotea sp,Lauraceae,tree,I,13,RILVR,43.3,12,16,C,B,None
+27,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,13,RILVR,85.7,8.5,14,B,C,None
+28,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,I,13,RILVR,34.5,7,17,B,D,None
+29,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,13,RILVR,56.9,8,18,B,C,None
+30,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,13,RILVR,61.9,10,21,A,B,None
+31,Jan-04,Not identified,Not provided,Not provided,Not provided,I,13,RILVR,48,8,13,C,C,None
+32,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,13,RILVR,185,18.5,23,A,A,None
+33,Jan-04,Not identified,Not provided,Not provided,Not provided,I,13,RILVR,52,4.5,10.5,D,B,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,14,RILVR,96,5,12,D,B,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,14,RILVR,33,6,15,D,D,None
+3,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,14,RILVR,45,22,25,B,B,None
+4,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,14,RILVR,47.7,13,15,C,A,None
+5,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,14,RILVR,49.3,12,15,D,C,None
+6,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,14,RILVR,88.7,10,12,B,A,None
+7,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,14,RILVR,48.1,8,15,C,B,None
+8,Jan-04,Murumuru,Astrocaryum sp,Arecaceae,palm,I,14,RILVR,77,3,9,D,A,None
+9,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,14,RILVR,62.6,3.5,9.5,D,C,None
+10,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,14,RILVR,40.6,9,12,C,D,None
+11,Jan-04,Ucuuba-branca,Iryanthera sp,Myristicaceae,tree,I,14,RILVR,52.2,9,12,B,B,None
+12,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,I,14,RILVR,53,8,13,B,A,None
+13,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,14,RILVR,38,4.5,10.5,C,A,None
+14,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,14,RILVR,38.1,14,16,B,A,None
+15,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,14,RILVR,80.2,12,14,B,A,None
+16,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,14,RILVR,81.8,9,1,C,A,None
+17,Jan-04,Murumuru,Astrocaryum sp,Arecaceae,palm,I,14,RILVR,41.8,5,8,D,A,None
+18,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,14,RILVR,168,10,16,A,A,None
+19,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,14,RILVR,53,10,10,B,A,None
+20,Jan-04,Not identified,Not provided,Not provided,Not provided,I,14,RILVR,37.5,8,15,B,B,None
+21,Jan-04,Not identified,Not provided,Not provided,Not provided,I,14,RILVR,53.2,6,12,B,A,None
+22,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,I,14,RILVR,34,7,10,C,D,None
+23,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,14,RILVR,47,22,25,A,A,None
+24,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,14,RILVR,83,20,22,A,A,None
+25,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,14,RILVR,45,14,18,B,B,None
+26,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,14,RILVR,68.7,12,15,B,A,None
+27,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,I,14,RILVR,42,5.5,10,C,B,None
+28,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,14,RILVR,110.3,5,12,B,B,None
+29,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,14,RILVR,39,4.5,5,D,C,None
+30,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,14,RILVR,35.3,2.8,6,D,C,None
+31,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,14,RILVR,77.1,13,20,B,A,None
+32,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,14,RILVR,38,5.5,8,B,A,None
+33,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,14,RILVR,39,4.5,5.5,D,A,None
+34,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,14,RILVR,41,6,8,C,A,None
+1,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,I,15,RILVR,39,9,15,C,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,15,RILVR,167,12,22,B,A,None
+3,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,15,RILVR,34,6,9,C,A,None
+4,Jan-04,Amescla-branca,Trattinickia sp.,Burseraceae,tree,I,15,RILVR,52.5,10,14,C,A,None
+5,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,15,RILVR,35,10,13,C,A,None
+6,Jan-04,Not identified,Not provided,Not provided,Not provided,I,15,RILVR,67,10,19,B,A,None
+7,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,15,RILVR,36,10,12,B,A,None
+8,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,15,RILVR,35,3,6,D,C,None
+9,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,15,RILVR,69,11,16,B,A,None
+10,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,15,RILVR,41.5,7,11,C,A,None
+11,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,15,RILVR,41,5,9,C,B,None
+12,Jan-04,Mutamba/Piriquiteira,Trema micrantha (L.) Blume,Ulmaceae,tree,I,15,RILVR,140,15,25,A,A,None
+13,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,15,RILVR,225,18,30,A,A,C/ Catana
+14,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,15,RILVR,54,4,7,D,C,None
+15,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,15,RILVR,34.5,12,14,C,A,None
+16,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,15,RILVR,39,19,22,B,A,C/ Catana
+17,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,15,RILVR,54,17,19,C,A,None
+18,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,I,15,RILVR,39.7,11,12,C,D,None
+19,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,I,15,RILVR,69,17,19,C,C,None
+20,Jan-04,Not identified,Not provided,Not provided,Not provided,I,15,RILVR,34,12,14,C,A,None
+21,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,15,RILVR,39.5,19,22,B,A,None
+22,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,15,RILVR,41,9,12,C,A,None
+23,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,I,15,RILVR,83,19,22,B,A,None
+24,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,15,RILVR,47,8,12,B,A,None
+25,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,15,RILVR,46.5,8,12,B,A,None
+26,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,15,RILVR,38.3,8,11,C,A,None
+27,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,I,15,RILVR,38.7,10,14,C,B,None
+28,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,15,RILVR,37.3,8,12,B,A,None
+29,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,I,15,RILVR,53.3,12,20,B,A,None
+30,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,I,15,RILVR,42.9,7,9,C,C,None
+31,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,15,RILVR,150,20,24,A,B,None
+32,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,15,RILVR,99,18,22,B,A,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,26,RILVI,120,18,24,B,B,None
+2,Jan-04,Escorrega-macaco,Calycophyllum spreceanum Benth.,Rubiaceae,tree,I,26,RILVI,95,21,25,A,A,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,26,RILVI,105,26,30,A,A,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,78,6,12,D,C,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,62,11,12,D,C,None
+3,Jan-04,Not identified,Not provided,Not provided,Not provided,I,27,RILVI,70,21,24,B,B,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,93,10.5,16,C,A,None
+5,Jan-04,Not identified,Not provided,Not provided,Not provided,I,27,RILVI,48,12.5,16,C,C,None
+6,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,27,RILVI,46,1.5,14,D,C,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,52,2.5,16,C,D,None
+8,Jan-04,Caferana,Coussarea paniculata Standl.,Rubiaceae,tree,I,27,RILVI,41,12,23,B,B,None
+9,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,I,27,RILVI,63,12,22,B,B,None
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,51,15,19,C,B,None
+11,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,39,7.5,19,C,A,None
+12,Jan-04,Not identified,Not provided,Not provided,Not provided,I,27,RILVI,45,10,20,B,B,None
+13,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,36,4.5,7,E,B,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,87,9,21,B,C,None
+15,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,27,RILVI,90,18,23,B,B,None
+16,Jan-04,Louro,Ocotea sp,Lauraceae,tree,I,27,RILVI,71,6.5,20,B,A,None
+17,Jan-04,Not identified,Not provided,Not provided,Not provided,I,27,RILVI,40,7.5,18,C,D,None
+18,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,27,RILVI,86,21,25,B,A,None
+19,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,27,RILVI,37,18,21,B,B,None
+20,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,27,RILVI,39,15,22,D,B,leaning
+21,Jan-04,Not identified,Not provided,Not provided,Not provided,I,27,RILVI,34,18,22,B,B,None
+22,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,27,RILVI,49,3.5,15,E,D,None
+23,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,I,27,RILVI,42,20,23,B,B,None
+24,Jan-04,Not identified,Not provided,Not provided,Not provided,I,27,RILVI,55,20,25,B,B,None
+25,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,27,RILVI,51,22,25,D,C,None
+26,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,27,RILVI,72,25,30,A,A,None
+27,Jan-04,Itauba,Mezilaurus itauba (Meisn.) Taub. Ex Mez,Lauraceae,tree,I,27,RILVI,36,13.5,17,C,B,None
+28,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,27,RILVI,47,11.7,22,B,B,None
+29,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,27,RILVI,33,19,23,B,B,None
+1,Jan-04,Castanheira,Bertholletia excelsa Humb. & Bonpl.,Lecythidaceae,tree,I,28,RILVI,370,24,30,A,A,vine
+2,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,I,28,RILVI,155,18,22,C,B,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,28,RILVI,116,7,16,C,A,None
+4,Jan-04,Not identified,Not provided,Not provided,Not provided,I,28,RILVI,118,25,29,B,B,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,28,RILVI,105,5.5,24,C,C,None
+1,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,29,RILVI,46,4,18,D,B,None
+2,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,I,29,RILVI,107,23,26,B,B,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,53,8,21,C,B,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,128,9.5,27,B,B,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,50,9.5,18,D,C,None
+6,Jan-04,Matamata,Eschweilera sp,Lecythidaceae,tree,I,29,RILVI,57,22,38,B,A,None
+7,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,I,29,RILVI,38,38,14,C,C,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,50,18,3.5,D,B,None
+9,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,I,29,RILVI,36,5.5,14,D,B,None
+10,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,29,RILVI,33,10.5,14,D,B,None
+11,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,42,12.5,15,C,B,None
+12,Jan-04,Not identified,Not provided,Not provided,Not provided,I,29,RILVI,50,23,26,D,A,None
+13,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,29,RILVI,38,13.5,18,D,B,None
+14,Jan-04,Po-de-mico,Not provided,Not provided,tree,I,29,RILVI,42,15,18.5,D,D,None
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,70,11.5,17,C,B,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,79,9,19,D,B,None
+17,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,I,29,RILVI,33,9.5,15.5,B,C,None
+18,Jan-04,Jatoba,Hymenaea sp,Caesalpinaceae,tree,I,29,RILVI,94,27,29,C,A,None
+19,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,56,12.5,24,B,C,None
+20,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,29,RILVI,33,19,27,A,B,None
+21,Jan-04,Castanheira,Bertholletia excelsa Humb. & Bonpl.,Lecythidaceae,tree,I,29,RILVI,605,35,40,D,A,None
+22,Jan-04,Not identified,Not provided,Not provided,Not provided,I,29,RILVI,33,15,19,D,B,None
+23,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,45,13.5,16,D,B,None
+24,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,29,RILVI,58,14,17,B,D,None
+25,Jan-04,Cumaru,Dipteryx odorata (Aubl.) Willd.,Fabaceae,tree,I,29,RILVI,185,24,28.5,B,B,None
+26,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,37,18,24,B,B,None
+27,Jan-04,Cumaru,Dipteryx odorata (Aubl.) Willd.,Fabaceae,tree,I,29,RILVI,73,19,27,D,B,None
+28,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,34,5.5,18,B,C,None
+29,Jan-04,Not identified,Not provided,Not provided,Not provided,I,29,RILVI,60,23,27,D,B,None
+30,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,29,RILVI,42,14,16,D,B,None
+31,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,75,12.5,18,D,B,None
+32,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,33,10,15.5,C,C,None
+33,Jan-04,Not identified,Not provided,Not provided,Not provided,I,29,RILVI,47,20,23,C,B,None
+34,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,29,RILVI,93,9,23,C,B,None
+1,Jan-04,Ucuuba-branca,Iryanthera sp,Myristicaceae,tree,I,30,RILVI,105,26,30,B,A,vine
+2,Jan-04,Mutamba/Piriquiteira,Trema micrantha (L.) Blume,Ulmaceae,tree,I,30,RILVI,148,8,13,D,D,broken off
+3,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,I,30,RILVI,118,4.5,16.5,D,C,None
+4,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,I,30,RILVI,96,1,18,D,C,standing dead
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,I,31,RILVI,57,4.5,16.5,D,A,vine
+2,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,31,RILVI,50,18,22,C,C,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,31,RILVI,50,12.5,14.5,D,A,None
+4,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,31,RILVI,51,18,22,C,A,None
+5,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,31,RILVI,47,14,16.5,D,B,None
+6,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,31,RILVI,42,21,23,B,C,None
+7,Jan-04,Not identified,Not provided,Not provided,Not provided,I,31,RILVI,42,11,16,D,A,None
+8,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,31,RILVI,39,20,23,B,A,None
+9,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,I,31,RILVI,52,21.5,23,B,B,None
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,31,RILVI,77,13,17,C,B,None
+1,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,I,31,RILVI,99,13,19,C,A,None
+2,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,I,31,RILVI,74,9,15,D,A,None
+3,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,I,31,RILVI,41,6.5,12,D,B,None
+4,Jan-04,Not identified,Not provided,Not provided,Not provided,I,31,RILVI,41,15,19,C,B,None
+5,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,I,31,RILVI,34,5.5,14,E,D,None
+6,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,31,RILVI,106,1.65,14,E,A,None
+7,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,31,RILVI,62,11.5,16.5,D,C,None
+8,Jan-04,Not identified,Not provided,Not provided,Not provided,I,31,RILVI,141,13,21,B,B,None
+9,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,I,31,RILVI,34,17,20,C,A,None
+10,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,31,RILVI,45,20,23,B,A,None
+11,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,31,RILVI,80,4,18,C,B,None
+12,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,31,RILVI,43,13,16,D,C,None
+13,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,I,31,RILVI,44,10,22,C,B,None
+14,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,I,31,RILVI,45,20,24,B,A,None
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,31,RILVI,40,12,18,C,A,None
+16,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,31,RILVI,43,5.5,17.5,C,C,None
+17,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,I,31,RILVI,89,22,25,B,B,vine
+18,Jan-04,Cerejeira,Torresia acreana Ducke,Fabaceae,tree,I,31,RILVI,320,35,45,A,A,None
+1,Jan-04,Acapu,Minquartia sp,Olacaceae,tree,I,32,RILVI,105,18,24,B,B,vine
+2,Jan-04,Not identified,Not provided,Not provided,Not provided,I,32,RILVI,125,26,31,B,B,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,33,RILVI,114,24,28,A,A,None
+2,Jan-04,Not identified,Not provided,Not provided,Not provided,I,33,RILVI,37,20,24,C,B,None
+3,Jan-04,Not identified,Not provided,Not provided,Not provided,I,33,RILVI,43,9.5,16,D,C,None
+4,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,I,33,RILVI,108,20,26,A,A,None
+5,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,33,RILVI,56.5,12,18,C,B,None
+6,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,I,33,RILVI,36,11,16,C,B,None
+7,Jan-04,Louro,Ocotea sp,Lauraceae,tree,I,33,RILVI,13.5,16.5,19,C,B,None
+8,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,33,RILVI,149,3.5,12,D,B,None
+9,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,I,33,RILVI,38.5,4,16,C,B,None
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,33,RILVI,80.5,12,18.5,C,B,None
+11,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,33,RILVI,90.5,17,24,A,A,None
+12,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,I,33,RILVI,46,13.5,19.5,C,A,None
+13,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,I,33,RILVI,39.5,5,19,C,B,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,33,RILVI,121,17,21,B,A,None
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,33,RILVI,140,16.5,21,A,A,None
+16,Jan-04,Po-de-mico,Not provided,Not provided,tree,I,33,RILVI,51,14,19,D,A,None
+17,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,I,33,RILVI,77.5,18,24,B,B,None
+18,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,I,33,RILVI,35,6,1,D,A,None
+19,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,33,RILVI,129,11,18,B,B,None
+20,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,I,33,RILVI,38.5,4,8,E,D,standing dead
+21,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,I,33,RILVI,65,17,22,B,B,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,33,RILVI,53,11,17,D,B,None
+23,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,33,RILVI,41,17,21,B,A,None
+24,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,33,RILVI,83,16,20,D,A,None
+25,Jan-04,Not identified,Not provided,Not provided,Not provided,I,33,RILVI,35.5,5.5,8,E,C,None
+26,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,I,33,RILVI,60.5,11.5,22,B,A,None
+1,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,34,RILVI,105,6.5,14,C,A,vine
+2,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,34,RILVI,120,6.5,14,C,A,None
+1,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,I,35,RILVI,41,11,17,C ,B,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,35,RILVI,44,9,15,C,A,None
+3,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,35,RILVI,43.5,12.5,15,D,B,None
+4,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,I,35,RILVI,36.5,4,10,D,C,broken off
+5,Jan-04,Not identified,Not provided,Not provided,Not provided,I,35,RILVI,71,15,19,C,A,None
+6,Jan-04,Not identified,Not provided,Not provided,Not provided,I,35,RILVI,36,5.5,6,D,C,broken off
+7,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,35,RILVI,100,4,11,C,C,None
+8,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,I,35,RILVI,56,10,15,E,B,None
+9,Jan-04,Matamata,Eschweilera sp,Lecythidaceae,tree,I,35,RILVI,35,18,19,A,A,None
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,35,RILVI,35,12,16,C,B,None
+11,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,35,RILVI,95,3,7,C,A,None
+12,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,35,RILVI,41,2,14,C,C,None
+13,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,35,RILVI,43.5,11,16,D,B,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,I,35,RILVI,44,6,12,D,C,None
+15,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,I,35,RILVI,40,11,16,C,B,broken off
+16,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,I,35,RILVI,103,19,25,B,A,None
+17,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,I,35,RILVI,40,11,15,D,C,None
+18,Jan-04,Bacuri,Synphonia sp,Clusiaceae,tree,I,35,RILVI,74.5,12,18,C,D,None
+19,Jan-04,Mamica-de-porca,Zanthoxylum sp,Rutaceae,tree,I,35,RILVI,75,14,22,B,A,None
+20,Jan-04,Cega-corrente,Not provided,Moraceae,tree,I,35,RILVI,115,25,29,A,A,None
+21,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,I,35,RILVI,122,3,15,C,A,None
+22,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,I,35,RILVI,57,11,16,D,B,None
+23,Jan-04,Not identified,Not provided,Not provided,Not provided,I,35,RILVI,40,8,13,D,C,broken off
+24,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,I,35,RILVI,55.5,16,20,C,B,None
+25,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,I,35,RILVI,52,15,18,D,B,None
+26,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,I,35,RILVI,43,10,15,D,B,None
+1,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,W,11,CONT.,65,5.5,12,D,B,vine
+2,Jan-04,Not identified,Not provided,Not provided,Not provided,W,11,CONT.,35,5,8,E,B,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,11,CONT.,41,15,25,B,B,513
+4,Jan-04,Cachimbeiro,Couratari sp,Lecythidaceae,tree,W,11,CONT.,610,25,40,A,A,None
+5,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,W,11,CONT.,42,3.5,11.5,D,B,None
+6,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,W,11,CONT.,51,5.5,18.5,C,A,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,11,CONT.,134,10,22,B,B,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,11,CONT.,58,12,17,C,A,None
+9,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,W,11,CONT.,113,12,18,C,B,None
+10,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,W,11,CONT.,33,4.5,7.5,E,D,None
+11,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,11,CONT.,33,5.5,25,E,A,None
+12,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,W,11,CONT.,33,7,11,E,B,None
+13,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,W,11,CONT.,59,15,15,D,A,broken off
+14,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,W,11,CONT.,36,5,8,D,D,None
+15,Jan-04,Murici,Byrsonima sp,Malpighiaceae,tree,W,11,CONT.,125,22,28,A,A,None
+16,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,W,11,CONT.,55,12,16,C,C,None
+17,Jan-04,Not identified,Not provided,Not provided,Not provided,W,11,CONT.,46,12,16,C,D,None
+18,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,W,11,CONT.,45,5.5,11.5,D,A,None
+19,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,11,CONT.,142,12,18,C,B,tag 02869 
+20,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,11,CONT.,54,22,27,B,B,None
+21,Jan-04,Bajao,Parkia paraensis Ducke,Mimosaceae,tree,W,11,CONT.,47,10,15,D,B,None
+22,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,W,11,CONT.,43,4,7,D,C,leaning
+23,Jan-04,Not identified,Not provided,Not provided,Not provided,W,11,CONT.,50,7,9,E,B,None
+24,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,W,11,CONT.,45,11,14,D,B,None
+1,Jan-04,Jaracatia,Jacaratia dodecaphylla,Caricaceae,tree,E,6,RILVR,162,17,23,B,A,None
+2,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,E,6,RILVR,354,12,25,B,B,None
+3,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,E,6,RILVR,110.5,15,25,B,B,None
+1,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,7,RILVR,42,3.5,8.5,E,C,vine ++
+2,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,E,7,RILVR,80,9,24,B,B,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,7,RILVR,75,10,16,D,A,None
+4,Jan-04,Murici,Byrsonima sp,Malpighiaceae,tree,E,7,RILVR,156,20,30,A,A,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,7,RILVR,98,20,25,B,A,None
+6,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,48,15,19.5,C,A,None
+7,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,7,RILVR,55,12,18,C,A,None
+8,Jan-04,Po-de-mico,Not provided,Not provided,tree,E,7,RILVR,38,12,15,D,C,None
+9,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,7,RILVR,45,10,14,D,B,None
+10,Jan-04,Jaracatia,Jacaratia dodecaphylla,Caricaceae,tree,E,7,RILVR,59,10,16,D,A,None
+11,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,55,12,17,C,C,None
+12,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,7,RILVR,43,7,13,D,B,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,7,RILVR,43,1,17,C,C,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,7,RILVR,43,8,12,D,B,None
+15,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,7,RILVR,44,10,12,D,A,None
+16,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,7,RILVR,49,12,16,D,A,None
+17,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,159,12,20,E,E,fallen
+18,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,7,RILVR,59,9,14,D,B,None
+19,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,7,RILVR,49,6,14,D,B,None
+20,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,7,RILVR,55,-9999,8,E,D,Toco
+21,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,110,-9999,7,E,D,Toco
+22,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,7,RILVR,50,6.5,11.5,E,D,leaning
+23,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,7,RILVR,45,7,16,D,A,None
+24,Jan-04,Not identified ,Not provided,Not provided,Not provided,E,7,RILVR,49,9,13,D,A,None
+25,Jan-04,Po-de-mico,Not provided,Not provided,tree,E,7,RILVR,49,10,13,D,A,None
+26,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,61,-9999,10,D,D,Toco
+27,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,55,18,24,B,A,None
+28,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,7,RILVR,36,9,14,D,C,None
+29,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,7,RILVR,49,6,16,D,B,None
+30,Jan-04,Not identified,Not provided,Not provided,Not provided,E,7,RILVR,143,13,18,C,A,None
+31,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,E,7,RILVR,55,9,13,D,A,broken off
+32,Jan-04,Po-de-mico,Not provided,Not provided,tree,E,7,RILVR,35,7,12,D,B,None
+33,Jan-04,Ucuuba-branca,Iryanthera sp,Myristicaceae,tree,E,7,RILVR,48,10,14,D,A,None
+34,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,7,RILVR,60,9,16,D,D,None
+35,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,7,RILVR,68,-9999,10,D,D,broken off
+36,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,7,RILVR,148,9,29,A,C,None
+37,Jan-04,Ucuuba-branca,Iryanthera sp,Myristicaceae,tree,E,7,RILVR,125,15,27,B,B,None
+38,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,E,7,RILVR,63,3.5,18.5,C,B,None
+1,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,E,8,RILVR,234,23,32,A,A,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,8,RILVR,132,13,25,B,A,None
+3,Jan-04,Sucupira-amarela,Diplotropis purpurea (Rich.) Amschoff,Fabaceae,tree,E,8,RILVR,115,27,35,A,C,None
+4,Jan-04,Feijao-cru,Samanea tubulosa (Benth.) Barnebv & J.V. Grimes,Mimosaceae,tree,E,8,RILVR,115,22,27,B,B,None
+5,Jan-04,Roxinho,Peltogyne sp,Caesalpinaceae,tree,E,8,RILVR,113,15,16,B,A,broken off
+6,Jan-04,Parica/pinho-cuiabano,Schizolubium amazonicum (Huber) Ducke,Caesalpinaceae,tree,E,8,RILVR,149.5,14,25,B,B,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,8,RILVR,101.5,8,16,B,C,None
+8,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,8,RILVR,45,22,25,A,B,None
+1,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,9,RILVR,37,6,12,B,C,None
+2,Jan-04,Bolao,Pouteria sp,Sapotaceae,tree,E,9,RILVR,66,6,8,D,D,standing dead
+3,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,9,RILVR,56,8,16,B,C,None
+4,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,9,RILVR,50,13,16,A,C,None
+5,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,9,RILVR,49,15,16,A,C,None
+6,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,9,RILVR,37,9,12,A,C,None
+7,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,9,RILVR,109,10,22,B,B,None
+8,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,9,RILVR,58,10,22,A,B,None
+9,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,E,9,RILVR,248,24,28,A,B,None
+10,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,9,RILVR,40,4,15,B,C,None
+11,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,E,9,RILVR,80,1.5,10,B,D,None
+12,Jan-04,Sucupira ,Bowdichia nitida Spruce,Fabaceae,tree,E,9,RILVR,105,29,26,A,A,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,9,RILVR,91,14,20,A,B,None
+14,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,9,RILVR,77,16,20,C,B,None
+15,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,9,RILVR,39,9,10,D,C,broken off
+16,Jan-04,Limaozinho,Rheedia sp,Clusiaceae,tree,E,9,RILVR,65,12,15,C,C,None
+17,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,9,RILVR,41,3,11,B,C,bifurcated stem
+18,Jan-04,Cachimbeiro,Couratari sp,Lecythidaceae,tree,E,9,RILVR,93,11,20,A,B,None
+19,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,E,9,RILVR,162,16,25,A,B,None
+20,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,9,RILVR,44,12,15,A,C,None
+21,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,E,9,RILVR,105,18,25,B,B,None
+22,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,9,RILVR,44,8,12,A,C,None
+23,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,9,RILVR,35,4,10,D,D,broken off
+24,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,9,RILVR,71,12,20,A,B,None
+25,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,9,RILVR,89,8,25,C,B,None
+26,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,E,9,RILVR,35,5,8,D,C,None
+27,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,9,RILVR,46,25,10,A,A,None
+28,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,9,RILVR,47,12,18,A,C,None
+29,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,9,RILVR,43.5,22,28,A,B,None
+30,Jan-04,Paineira,Ceiba pentandra,Bombacaceae,tree,E,9,RILVR,54,10,18,A,C,None
+1,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,E,10,RILVR,320,14,25,C,B,None
+2,Jan-04,Escova-de-macaco/Pente-de-mico,Apeiba sp,Tiliaceae,tree,E,10,RILVR,111,15,20,A,B,None
+3,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,10,RILVR,115,16,25,B,B,None
+1,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,11,RILVR,47,20,23,B,A,vine ++
+2,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,11,RILVR,75,12,20,C,B,Córrego
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,11,RILVR,52,11,15,D,B,None
+4,Jan-04,Embireira-da-casca-fina,Not provided,Not provided,tree,E,11,RILVR,42,15,19,D,C,leaning
+5,Jan-04,Not identified,Not provided,Not provided,Not provided,E,11,RILVR,33.5,3.5,8.5,E,C,regrowth
+6,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,11,RILVR,43,6,8,E,B,broken off
+7,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,11,RILVR,151,10,16,D,B,hollow
+8,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,11,RILVR,63,18,22,B,A,None
+9,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,11,RILVR,63,10,18,C,A,None
+10,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,E,11,RILVR,44,7,15,D,B,None
+11,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,E,11,RILVR,172,25,32,A,A,None
+12,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,E,11,RILVR,41,9,17,C,C,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,11,RILVR,60,8,17,C,B,leaning
+14,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,E,11,RILVR,60,10,16,D,A,None
+15,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,11,RILVR,40,7,15,D,C,None
+16,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,E,11,RILVR,34,10,14,D,B,None
+17,Jan-04,Not identified,Not provided,Not provided,Not provided,E,11,RILVR,45,5,10,D,B,None
+18,Jan-04,Jurema,Pithecellobium tortum Mart.,Mimosaceae,tree,E,11,RILVR,66,6,17,C,C,None
+19,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,E,11,RILVR,43,15,21,C,B,None
+20,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,11,RILVR,42,15,20,C,B,None
+21,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,E,11,RILVR,177,25,34,A,A,None
+22,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,E,11,RILVR,35,9,11,D,B,None
+23,Jan-04,Not identified,Not provided,Not provided,Not provided,E,11,RILVR,41,14,18,C,B,None
+24,Jan-04,Itauba-branca,Ocotea rodiei (R.H. Schomb.) Mez,Lauraceae,tree,E,11,RILVR,44,12,20,C,A,None
+25,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,11,RILVR,57,20,25,B,A,None
+26,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,11,RILVR,91,10,18,C,B,None
+1,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,12,RILVR,133,20,25,A,B,None
+2,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,E,12,RILVR,111,5.5,23,B,C,None
+1,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,13,RILVR,45,18,20,B,A,None
+2,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,44,20,22,B,A,None
+3,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,34,8,11,C,A,None
+4,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,47,10,13,C,A,None
+5,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,57,10,16,B,A,None
+6,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,13,RILVR,127,10,24,B,A,None
+7,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,67,16,20,B,A,None
+8,Jan-04,Pataua,Oenocarpus bataua Mart.,Arecaceae,palm,E,13,RILVR,81.5,7,15,C,A,None
+9,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,13,RILVR,48,7,15,C,A,None
+10,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,13,RILVR,123,2,16,C,C,bifurcated stem
+11,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,48,18,22,B,A,None
+12,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,53,20,24,B,A,None
+13,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,38,18,22,B,A,None
+14,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,40.5,19,23,A,A,None
+15,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,50,20,23,B,A,None
+16,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,47,19.5,22,B,A,None
+17,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,49,18,20,B,A,None
+18,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,51,18.5,22,B,A,None
+19,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,46,19,21,B,A,None
+20,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,46,20,22,B,A,None
+21,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,45,20.5,22,B,A,None
+22,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,73.5,20,23,B,A,None
+23,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,76,7,16,C,A,None
+24,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,13,RILVR,33,3,10,C,C,None
+25,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,E,13,RILVR,175,15,25,B,A,None
+26,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,13,RILVR,39,9,15,C,B,None
+27,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,13,RILVR,37,8,15,C,B,None
+28,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,E,13,RILVR,92,12,18,B,C,None
+29,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,83,12,15,C,A,None
+30,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,13,RILVR,37,10,11,C,A,None
+31,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,13,RILVR,95,10,10,D,D,broken off
+32,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,13,RILVR,50,10,18,B,A,None
+33,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,38,16,18,C,A,None
+34,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,13,RILVR,52,18,22,C,A,None
+35,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,13,RILVR,55.5,4,12,C,A,None
+36,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,53,10,13,C,A,None
+37,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,66,15,18,C,A,None
+38,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,70,17,20,B,A,None
+39,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,41,8,11,C,A,None
+40,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,63,12,14,C,A,None
+41,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,79,15,20,C,A,None
+42,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,E,13,RILVR,70,15,20,C,A,None
+1,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,14,RILVR,150,15,25,B,A,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,14,RILVR,96,15,20,B,B,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,14,RILVR,177,25,30,A,A,None
+4,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,14,RILVR,110,15,19,B,A,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,14,RILVR,113,24,28,A,A,None
+6,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,14,RILVR,126,14,19,B,C,broken off
+7,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,E,14,RILVR,280,25,35,A,A,None
+1,Jan-04,Caixeta,Simaruba amara Aubl.,Simaroubaceae,tree,E,15,RILVR,62.5,10,16,C,B,None
+2,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,15,RILVR,59,10,15,C,B,None
+3,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,15,RILVR,136,15,25,B,B,None
+4,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,15,RILVR,34.5,5,8,C,A,None
+5,Jan-04,Itauba-branca,Ocotea rodiei (R.H. Schomb.) Mez,Lauraceae,tree,E,15,RILVR,36.5,7,10,C,B,None
+6,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,15,RILVR,46.5,12,14,C,B,None
+7,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,15,RILVR,140,17,29,A,B,termites
+8,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,15,RILVR,58,8,15,C,A,None
+9,Jan-04,Escova-de-macaco/Pente-de-mico,Apeiba sp,Tiliaceae,tree,E,15,RILVR,149,19,25,B,A,None
+10,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,15,RILVR,43,12,18,C,A,None
+11,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,15,RILVR,50,6,12,D,B,None
+12,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,E,15,RILVR,80.5,3,10,D,A,None
+13,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,15,RILVR,91.5,9,16,C,A,None
+14,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,15,RILVR,134.5,20,26,A,A,None
+15,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,15,RILVR,160,15,23,B,B,termites
+16,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,15,RILVR,17,7,7,D,D,Toco
+17,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,15,RILVR,37,7,15,C,B,None
+18,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,15,RILVR,53.5,12,15,C,B,None
+19,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,E,15,RILVR,36.5,8,15,C,B,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,26,RILVI,111,10,25,B,A,None
+1,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,E,28,RILVI,99,18,25,B,B,None
+1,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,E,29,RILVI,99,15,15,C,D,None
+2,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,29,RILVI,62,15,20,B,A,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,29,RILVI,96.5,20,25,B,A,None
+4,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,29,RILVI,50,8,15,C,B,None
+5,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,29,RILVI,44,8,12,E,A,None
+6,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,29,RILVI,76,11,20,B,B,None
+7,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,29,RILVI,56,9,18,C,B,None
+8,Jan-04,Not identified,Not provided,Not provided,Not provided,E,29,RILVI,51.5,15,20,B,A,None
+9,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,29,RILVI,58.5,7,15,C,B,None
+10,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,29,RILVI,37,6,12,C,B,None
+11,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,29,RILVI,47,20,23,B,A,None
+12,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,29,RILVI,114,8,20,B,A,None
+13,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,E,29,RILVI,47,8,16,C,A,None
+14,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,E,29,RILVI,55,8,12,C,A,None
+15,Jan-04,Sucupira-amarela,Diplotropis purpurea (Rich.) Amschoff,Fabaceae,tree,E,29,RILVI,81,12,25,A,A,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,29,RILVI,39,8,12,C,A,None
+17,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,E,29,RILVI,49,5,12,D,A,None
+18,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,E,29,RILVI,61,7,18,B,B,None
+19,Jan-04,Peroba,Aspidosperma sp,Apocynaceae,tree,E,29,RILVI,34,7,15,C,A,None
+20,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,29,RILVI,109,12,24,A,A,None
+21,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,E,29,RILVI,99,8,20,B,B,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,29,RILVI,129,12,25,B,A,None
+23,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,29,RILVI,40,20,24,B,A,None
+1,Jan-04,Bolao,Pouteria sp,Sapotaceae,tree,E,30,RILVI,105,15,21,B,A,None
+2,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,30,RILVI,11,10,24,A,A,None
+1,Jan-04,Po-de-mico,Not provided,Not provided,tree,E,31,RILVI,51,8,17,C,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,31,RILVI,137,12,22,B,B,None
+3,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,E,31,RILVI,45,7,12,D,B,None
+4,Jan-04,Not identified,Not provided,Not provided,Not provided,E,31,RILVI,44,12,19,C,A,None
+5,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E,31,RILVI,40,11,18,C,C,None
+6,Jan-04,Mamica-de-porca,Zanthoxylum sp,Rutaceae,tree,E,31,RILVI,92,20,24,B,B,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,31,RILVI,103,15,25,B,B,None
+8,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E,31,RILVI,38,6,8,E,A,None
+9,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,E,31,RILVI,100,12,22,B,A,None
+10,Jan-04,Catuaba,Anemopaegma sp,Bignoniaceae,tree,E,31,RILVI,239,25,35,A,A,None
+11,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,31,RILVI,45,7,12,D,B,None
+12,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,E,31,RILVI,87,18,24,B,A,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,31,RILVI,65,15,21,C,B,None
+14,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E,31,RILVI,44,20,22,C,A,None
+15,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,E,31,RILVI,85,8,16,D,A,None
+16,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,E,31,RILVI,47,11,15,D,A,None
+17,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,31,RILVI,81,9,21,C,A,None
+18,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,31,RILVI,52,9,17,C,A,None
+19,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,E,31,RILVI,96,18,24,B,C,leaning
+20,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,E,31,RILVI,82,19,25,B,B,None
+21,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,E,31,RILVI,57,8,18,C,B,None
+22,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,31,RILVI,39,15,19,C,A,None
+23,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,E,31,RILVI,73,30,34,A,A,None
+24,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,E,31,RILVI,34,7,11,D,B,None
+25,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,E,31,RILVI,93,5,25,B,C,None
+26,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,31,RILVI,44,7,11,D,B,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,32,RILVI,112,8,20,B,A,None
+2,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,E,32,RILVI,165,8,20,A,A,None
+3,Jan-04,Feijao-cru,Samanea tubulosa (Benth.) Barnebv & J.V. Grimes,Mimosaceae,tree,E,32,RILVI,212,20,35,A,A,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,E,33,RILVI,190,18,30,A,B,None
+2,Jan-04,Escova-de-macaco/Pente-de-mico,Apeiba sp,Tiliaceae,tree,E,33,RILVI,119,18,30,A,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,33,RILVI,120,7,20,B,B,None
+4,Jan-04,Itauba,Mezilaurus itauba (Meisn.) Taub. Ex Mez,Lauraceae,tree,E,33,RILVI,34,4.5,8,E,A,None
+5,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,E,33,RILVI,44,8,24,B,C,None
+6,Jan-04,Aroeira,Astronium sp,Anacardiaceae,tree,E,33,RILVI,130,13,28,A,A,None
+7,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,33,RILVI,65,12,18,B,B,None
+8,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,33,RILVI,48,6,15,C,C,None
+9,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,33,RILVI,43,3,8,D,C,broken off
+10,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,E,33,RILVI,119,5,20,B,A,None
+11,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,E,33,RILVI,65,25,28,A,A,None
+12,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,33,RILVI,119,8,20,B,B ,None
+13,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,E,33,RILVI,155,18,29,A,A,None
+14,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,E,33,RILVI,82,6,18,B,B,None
+15,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,33,RILVI,34,6,12,C,B,None
+16,Jan-04,Escorrega-macaco,Calycophyllum spreceanum Benth.,Rubiaceae,tree,E,33,RILVI,76,5,22,B,A,None
+17,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,E,33,RILVI,51,8,12,C,B,None
+18,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,33,RILVI,37,5,15,C,C,None
+19,Jan-04,Peroba,Aspidosperma sp,Apocynaceae,tree,E,33,RILVI,39,15,18,B,B,None
+20,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E,33,RILVI,71,8,15,C,B,None
+21,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,33,RILVI,119,14,22,B,B,None
+22,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,E,33,RILVI,34,8,16,C,A,None
+1,Jan-04,Sumauma,Ceiba samauma K. Schum.,Bombacaceae,tree,E,34,RILVI,113,20,27,A,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,34,RILVI,157,10,27,A,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,34,RILVI,131.5,9,25,A,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,34,RILVI,108.9,8,25,A,A,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,34,RILVI,133,8,18,B,D,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,34,RILVI,165,10,23,B,C,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E,34,RILVI,117,8,25,B,D,leaning
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,E ,27,RILVI,37,12,15,D,D,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E ,27,RILVI,104,5.5,23,B,B,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E ,27,RILVI,143,9,18,C,B,None
+4,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,E ,27,RILVI,235,18,25,B,A,None
+5,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,E ,27,RILVI,42,6,10,D,A,None
+6,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,E ,27,RILVI,34,7,18,C,B,None
+7,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,E ,27,RILVI,34,10,14,D,B,None
+8,Jan-04,Not identified,Not provided,Not provided,Not provided,E ,27,RILVI,97,10,25,B,B,None
+9,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,E ,27,RILVI,78,9,14,D,A,None
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E ,27,RILVI,48,12,18,C,B,None
+11,Jan-04,Imbauba-torem,Pourouma guianensis Aubl.,Cecropiaceae,tree,E ,27,RILVI,91,9,17,C,B,None
+12,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,E ,27,RILVI,34,3.5,8,E,B,None
+13,Jan-04,Not identified,Not provided,Not provided,Not provided,E ,27,RILVI,50,12,17,C,A,None
+14,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,E ,27,RILVI,45,12,16,C,A,None
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,E ,27,RILVI,124,6,22,B,A,None
+16,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,E ,27,RILVI,42,6,11,D,C,None
+17,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,E ,27,RILVI,48,12,16,C,A,None
+18,Jan-04,Garrote ,Bagassa guianensis Aubl.,Moraceae,tree,E ,27,RILVI,196,20,30,A,A,None
+19,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,E ,27,RILVI,41,2.5,14.5,D,D,leaning
+1,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,6,RILVR,125,11,15,B,B,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,7,RILVR,76,7,15,C,A,None
+2,Jan-04,Cumaru,Dipteryx odorata (Aubl.) Willd.,Fabaceae,tree,H,7,RILVR,138,22,30,A,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,7,RILVR,33.5,5,8,C,D,None
+4,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,H,7,RILVR,40,5.5,8.5,A,D,None
+5,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,H,7,RILVR,45,7,11,A,D,None
+6,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,7,RILVR,215,12,22,B,A,None
+7,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,7,RILVR,45,12,14,D,A,None
+8,Jan-04,Not identified,Not provided,Not provided,Not provided,H,7,RILVR,58,8,12,C,A,None
+9,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,7,RILVR,40,5,11,D,C,leaning
+10,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,7,RILVR,57,5,16,C,B,None
+11,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,7,RILVR,72,7.5,15,C,A,None
+12,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,7,RILVR,60,5.5,12.5,D,B,None
+13,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,7,RILVR,66,8,14,C,B,None
+14,Jan-04,Not identified,Not provided,Not provided,Not provided,H,7,RILVR,39,5,11,D,D,None
+15,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,7,RILVR,44,6.5,14,D,C,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,7,RILVR,41,6,10,D,B,None
+17,Jan-04,Cedro,Cedrela sp,Meliaceae,tree,H,7,RILVR,42,5.5,9.5,D,B,None
+18,Jan-04,Louro-freijo,Cordia sp,Boraginaceae,tree,H,7,RILVR,88,4,16,D,C,None
+19,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,7,RILVR,45,12,17,B,A,None
+20,Jan-04,Not identified,Not provided,Not provided,Not provided,H,7,RILVR,59,12,16,C,B,None
+21,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,7,RILVR,45,5.5,11.5,D,B,None
+22,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,7,RILVR,40,7,10,D,B,None
+23,Jan-04,Guariuba,Clarisia racemosa Ruiz & Pav.,Moraceae,tree,H,7,RILVR,110,10,17,B,A,None
+24,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,H,7,RILVR,74,10.5,17.5,B,A,None
+25,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,7,RILVR,50,5,9,D,C,leaning
+26,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,7,RILVR,39,15,17,D,A,None
+27,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,7,RILVR,73,10,15,C,B,None
+28,Jan-04,Not identified,Not provided,Not provided,Not provided,H,7,RILVR,138,18,25,A,B,None
+29,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,7,RILVR,37,5,10.5,D,A,None
+30,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,7,RILVR,39,-9999,8,D,E,standing dead
+31,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,7,RILVR,109,25,28,A,A,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,8,RILVR,152,18,25,B,A,None
+2,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,H,8,RILVR,122,10,20,B,B,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,8,RILVR,105.3,22,28,A,A,None
+4,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,8,RILVR,181,12,30,A,A,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,9,RILVR,111,10,22,B,B,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,9,RILVR,51,8,15,C,A,None
+3,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,47.5,3,18,C,B,None
+4,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,9,RILVR,39.8,8,15,C,C,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,9,RILVR,126,22,3,A,A,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,9,RILVR,145.4,11,25,B,A,None
+7,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,9,RILVR,49,12,25,B,A,None
+8,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,9,RILVR,39,2.5,15,C,D,None
+9,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,9,RILVR,87,6,18,C,D,None
+10,Jan-04,Sucupira-amarela,Diplotropis purpurea (Rich.) Amschoff,Fabaceae,tree,H,9,RILVR,104,25,33,A,A,None
+11,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,9,RILVR,74,10,20,B,A,None
+12,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,73,5,18,B,C,None
+13,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,9,RILVR,36.7,10,11,D,B,None
+14,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,9,RILVR,110.5,12,22,B,D,leaning
+15,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,79,11,18,C,B,None
+16,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,124,6,22,B,A,None
+17,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,9,RILVR,64,22,25,B,A,None
+18,Jan-04,Bolao,Pouteria sp,Sapotaceae,tree,H,9,RILVR,85.5,18,25,B,B,None
+19,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,9,RILVR,33.2,0.5,10,D,D,None
+20,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,49.5,8,15,C,B,None
+21,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,9,RILVR,39.4,10,14,C,B,None
+22,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,9,RILVR,65,10,15,C,C,None
+23,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,H,9,RILVR,74,14,16,C,C,None
+24,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,38,6,10,E,A,None
+25,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,9,RILVR,142,4,25,B,B,bifurcated stem
+26,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,9,RILVR,89,20,25,B,A,None
+1,Jan-04,Sucupira-amarela,Diplotropis purpurea (Rich.) Amschoff,Fabaceae,tree,H,10,RILVR,234,23,30,A,C,termites
+1,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,11,RILVR,39,7.5,10,D,A,None
+2,Jan-04,Figueira-rosa,Ficus sp,Moraceae,tree,H,11,RILVR,105,17,23,B,A,None
+3,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,11,RILVR,46,7,14,D,B,None
+4,Jan-04,Bajao,Parkia paraensis Ducke,Mimosaceae,tree,H,11,RILVR,130,18,24,B,A,None
+5,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,H,11,RILVR,35,9,13,D,B,None
+6,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,11,RILVR,38,4,10,D,C,leaning
+7,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,11,RILVR,73,6,18,C,A,None
+8,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,11,RILVR,42,18,19,C,A,None
+9,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,H,11,RILVR,140,10,20,C,A,None
+10,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,11,RILVR,56,4,12,D,C,None
+11,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,11,RILVR,59,3,7,E,D,broken off
+12,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,11,RILVR,42,12,15,D,B,None
+13,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,11,RILVR,41,18,21,B,B,None
+14,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,11,RILVR,34,7,11,D,B,None
+15,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,11,RILVR,43,14,16,D,B,None
+16,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,11,RILVR,34,7,9,D,A,None
+17,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,11,RILVR,71,4.5,14.5,C,A,None
+18,Jan-04,Cachimbeiro,Couratari sp,Lecythidaceae,tree,H,11,RILVR,53,12,18,C,A,None
+19,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,11,RILVR,60,9,17,C,C,None
+20,Jan-04,Pataua,Oenocarpus bataua Mart.,Arecaceae,palm,H,11,RILVR,77,11,17,C,A,None
+21,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,11,RILVR,62,10,14,D,C,None
+22,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,11,RILVR,40,4,7,E,C,None
+23,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,11,RILVR,72,7,15,D,A,None
+24,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,11,RILVR,40,3,10,D,B,None
+25,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,11,RILVR,142,9,17,C,B,vine
+26,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,H,11,RILVR,53,4,14,D,C,None
+27,Jan-04,Not identified,Not provided,Not provided,Not provided,H,11,RILVR,34,7,12,D,D,None
+28,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,H,11,RILVR,53,9,15,C,A,None
+29,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,11,RILVR,38,9,13,D,B,None
+30,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,H,11,RILVR,93,15,25,B,A,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,12,RILVR,108.5,8,26,B,B,None
+2,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,H,12,RILVR,180,12,25,B,B,None
+3,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,12,RILVR,125,12,26,B,D,termites
+4,Jan-04,Alecrim,Holocalyx balansae   ,Caesalpinaceae,tree,H,12,RILVR,495,12,35,A,D,None
+1,Jan-04,Sete-pernas,(CAESALPINIACEAE,Arecaceae,palm,H,13,RILVR,47.5,18,20,C,C,None
+2,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,H,13,RILVR,42,8,10,D,A,None
+3,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,35.5,4,8,E,A,None
+4,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,13,RILVR,34,2.5,8,E,D,None
+5,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,13,RILVR,33,5,9,E,D,None
+6,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,13,RILVR,40,7,15,C,B,None
+7,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,H,13,RILVR,60,6,15,C,A,None
+8,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,13,RILVR,36,6,10,D,B,None
+9,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,13,RILVR,52,5,16,C,C,None
+10,Jan-04,Pataua,Oenocarpus bataua Mart.,Arecaceae,palm,H,13,RILVR,63.5,5,18,C,A,None
+11,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,41,12,18,C,A,None
+12,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,47,20,22,B,A,None
+13,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,50,20,23,B,A,None
+14,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,39,20,23,B,A,None
+15,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,H,13,RILVR,170,18,25,A,A,None
+16,Jan-04,Orelha-de-macaco,Enterolobium sp,Mimosaceae,tree,H,13,RILVR,143,12,20,B,A,None
+17,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,13,RILVR,36,3,10,E,A,None
+18,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,13,RILVR,54.5,4,8,E,A,None
+19,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,34.5,15,23,B,A,None
+20,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,50.3,20,23,B,A,None
+21,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,45,4,4,E,D,Toco
+22,Jan-04,Not identified,Not provided,Not provided,Not provided,H,13,RILVR,46,8,10,E,D,standing dead
+23,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,13,RILVR,39,6,9,E,C,None
+24,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,42,15,18,C,A,None
+25,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,44,10,12,C,A,None
+26,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,50,18,20,B,A,None
+27,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,13,RILVR,33,1.5,8,E,D,None
+28,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,13,RILVR,93,9,20,B,A,leaning
+29,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,H,13,RILVR,47.3,3,6,E,B,None
+30,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,13,RILVR,35,5,10,D,A,None
+31,Jan-04,Pataua,Oenocarpus bataua Mart.,Arecaceae,palm,H,13,RILVR,82.3,12,18,C,A,None
+32,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,49,23,25,B,A,None
+33,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,H,13,RILVR,61,18,23,B,A,None
+34,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,37,8,9,E,A,None
+35,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,40,10,12,D,A,None
+36,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,44,18,20,B,A,None
+37,Jan-04,Not identified,Not provided,Not provided,Not provided,H,13,RILVR,293,18,25,B,A,None
+38,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,H,13,RILVR,35,3,6,E,D,None
+39,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,H,13,RILVR,33,3,6,E,A,None
+40,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,13,RILVR,37,8,12,D,A,None
+41,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,13,RILVR,35,4,6,E,B,None
+1,Jan-04,Mutamba/Piriquiteira,Trema micrantha (L.) Blume,Ulmaceae,tree,H,14,RILVR,99,15,18,C,C,córrego
+2,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,H,14,RILVR,100,5,20,C,D,fallen
+1,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,15,RILVR,37.7,10,12,C,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,15,RILVR,170,10,22,B,A,None
+3,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,15,RILVR,45.5,10,18,B,B,None
+4,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,15,RILVR,150.5,20,27,A,A,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,15,RILVR,69.7,10,18,C,B,None
+6,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,15,RILVR,50.5,25,30,A,A,None
+7,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,H,15,RILVR,36.5,4,8,E,A,None
+8,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,H,15,RILVR,189,20,30,A,A,None
+9,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,H,15,RILVR,88,18,25,B,A,None
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,15,RILVR,121.3,10,25,B,B,None
+11,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,15,RILVR,36,5,8,E,B,None
+12,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,H,15,RILVR,40,5,8,E,A,None
+13,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,15,RILVR,54.5,8,12,D,A,None
+14,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,H,15,RILVR,161,12,25,B,A,None
+15,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,15,RILVR,55,1,14,C,C,bifurcated stem
+16,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,H,15,RILVR,56.5,6,12,D,A,None
+17,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,15,RILVR,145.5,8,22,B,C,None
+18,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,15,RILVR,52.5,10,18,C,A,None
+19,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,H,15,RILVR,52,5,8,E,A,None
+20,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,15,RILVR,47,30,32,A,A,None
+21,Jan-04,Barriguda,Ceiba penthandra,Bombacaceae,tree,H,15,RILVR,54.5,8,12,C,A,None
+22,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,15,RILVR,53,3,9,E,D,None
+23,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,15,RILVR,39,1.5,8,E,D,None
+24,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,15,RILVR,40,12,15,C,A,None
+25,Jan-04,Feijao-cru,Samanea tubulosa (Benth.) Barnebv & J.V. Grimes,Mimosaceae,tree,H,15,RILVR,98,17,20,B,B,None
+26,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,15,RILVR,144.5,10,25,B,A,None
+27,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,H,15,RILVR,93,9,13,C,A,None
+28,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,15,RILVR,51,10,13,C,B,None
+29,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,H,15,RILVR,34.7,8,12,C,B,None
+30,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,15,RILVR,41,-9999,5,E,D,standing dead
+31,Jan-04,Not identified,Not provided,Not provided,Not provided,H,15,RILVR,57,6,8,E,A,None
+32,Jan-04,Not identified,Not provided,Not provided,Not provided,H,15,RILVR,83,5,18,C,D,termites
+33,Jan-04,Mamica-de-porca,Zanthoxylum sp,Rutaceae,tree,H,15,RILVR,34,8,12,C,A,None
+34,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,15,RILVR,59,7,18,C,B,None
+35,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,15,RILVR,57,9,12,D,B,None
+36,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,H,15,RILVR,38,6,9,E,A,None
+37,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,15,RILVR,38,4,9,E,C,None
+1,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,H,27,RILVI,49,5,13,D,A,vine
+2,Jan-04,Babaçu,Attalea speciosa Mart. Ex. Spreng,Arecaceae,palm,H,27,RILVI,85,13,15,C,A,None
+3,Jan-04,Louro-freijo,Cordia sp,Boraginaceae,tree,H,27,RILVI,41,5,11,D,C,None
+4,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,H,27,RILVI,40,8,13,D,A,None
+5,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,77,12,15,C,B,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,63,5,16,C,B,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,90,6,18,C,B,None
+8,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,H,27,RILVI,150,13,24,A,A,None
+9,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,27,RILVI,38,2,7,E,C,None
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,74,8,17,C,B,None
+11,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,27,RILVI,56,9,10,D,A,standing dead
+12,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,27,RILVI,45,7,16,C,D,None
+13,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,48,3,9,D,D,None
+14,Jan-04,Mutamba/Piriquiteira,Trema micrantha (L.) Blume,Ulmaceae,tree,H,27,RILVI,158,9,17,C,A,None
+15,Jan-04,Ucuuba-branca,Iryanthera sp,Myristicaceae,tree,H,27,RILVI,64,20,26,B,B,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,55,6,14,D,B,None
+17,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,27,RILVI,37,5,9,D,A,None
+18,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,H,27,RILVI,47,4.5,10.5,D,D,None
+19,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,27,RILVI,35,10,12.5,D,A,None
+20,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,27,RILVI,107,4,19,C,B,None
+21,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,H,27,RILVI,156,13,25,A,A,None
+1,Jan-04,Po-de-mico,Not provided,Not provided,tree,H,31,RILVI,75,10,16,C,C,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,31,RILVI,37,2.5,12,E,D,leaning
+3,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,31,RILVI,90,16,20,B,A,None
+4,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,31,RILVI,43,7,15,E,D,leaning
+5,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,31,RILVI,40,7,12,E,D,leaning
+6,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,31,RILVI,152,20,26,A,A,None
+7,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,H,31,RILVI,53,9,17,D,C,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,31,RILVI,43,5,14,D,B,leaning
+9,Jan-04,Matamata,Eschweilera sp,Lecythidaceae,tree,H,31,RILVI,70,5,13,C,C,None
+10,Jan-04,Not identified,Not provided,Not provided,Not provided,H,31,RILVI,39,6,11,D,B,broken off
+11,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,31,RILVI,58,8,10,D,B,broken off
+12,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,H,31,RILVI,52,8,12,D,C,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,31,RILVI,67,7,16,E,D,fallen
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,31,RILVI,60,4.5,10.5,D,B,None
+15,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,H,31,RILVI,45,9,13,D,B,None
+16,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,H,31,RILVI,55,8,15,D,B,None
+17,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,31,RILVI,88,1,9,E,A,None
+18,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,31,RILVI,69,9,12,D,C,leaning
+19,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,31,RILVI,135,8,15,C,C,None
+20,Jan-04,Not identified,Not provided,Not provided,Not provided,H,31,RILVI,37,8,12,D,A,None
+21,Jan-04,Cega-corrente,Not provided,Moraceae,tree,H,31,RILVI,83,11,16,C,A,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,H,31,RILVI,40,9,16,C,C,None
+23,Jan-04,Mamica-de-porca,Zanthoxylum sp,Rutaceae,tree,H,31,RILVI,43,8,15,C,B,None
+24,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,H,31,RILVI,62,6.5,14,C,B,None
+25,Jan-04,Louro,Ocotea sp,Lauraceae,tree,H,31,RILVI,43,18,22,B,B,None
+26,Jan-04,Not identified,Not provided,Not provided,Not provided,H,31,RILVI,42,8,14,C,B,None
+27,Jan-04,Imbauba-mapati,Pourouma cecropiifolia Mart.,Cecropiaceae,tree,H,31,RILVI,95,12,25,A,B,None
+28,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,H,31,RILVI,96,4,13,D,A,None
+29,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,H,31,RILVI,35,4,12,D,B,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,6,CONT.,189,12,25,B,A,vine 
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,6,CONT.,124,8,25,B,C,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,6,CONT.,149,15,25,B,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,6,CONT.,247,9,25,B,B,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,6,CONT.,95,12,25,B,B,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,6,CONT.,103,12,24,B,C,None
+7,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,6,CONT.,260,20,30,A,B,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,6,CONT.,104,12,20,B,B,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,35,7,10,D,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,7,CONT.,74,10,18,C,B,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,34,10,13,D,A,None
+4,Jan-04,Louro-freijo,Cordia sp,Boraginaceae,tree,Q,7,CONT.,37,10,12,D,B,None
+5,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,7,CONT.,37,4,10,E,B,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,7,CONT.,46,8,12,D,B,None
+7,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,7,CONT.,33,10,13,D,D,None
+8,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,7,CONT.,49,22,27,A,A,None
+9,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,7,CONT.,52,7,11,D,A,None
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,35,15,18,D,C,leaning
+11,Jan-04,Embireira-da-casca-fina,Not provided,Not provided,tree,Q,7,CONT.,53,18,22,B,B,None
+12,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,7,CONT.,87,7,19,C,A,None
+13,Jan-04,Mamica-de-porca,Zanthoxylum sp,Rutaceae,tree,Q,7,CONT.,115,12,20,C,A,None
+14,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,7,CONT.,39,6,11,D,D,None
+15,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,Q,7,CONT.,71,15,25,B,B,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,7,CONT.,96,4,16,C,B,None
+17,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,54,15,19,E,A,leaning
+18,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,7,CONT.,43,8,11,D,B,None
+19,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,7,CONT.,34,13,17,D,D,leaning
+20,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,46,4,9,E,B,broken off
+21,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,Q,7,CONT.,37,12,15,D,B,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,7,CONT.,88,7,19,C,B,None
+23,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,39,18,22,B,A,None
+24,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,Q,7,CONT.,33,45,10.5,D,A,None
+25,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,Q,7,CONT.,37,3.5,9.5,E,C,None
+26,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,7,CONT.,43,12,16,C,A,None
+27,Jan-04,Louro-freijo,Cordia sp,Boraginaceae,tree,Q,7,CONT.,47,14,18,C,B,None
+28,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,7,CONT.,78,14,20,C,C,None
+29,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,Q,7,CONT.,39,12,17,C,C,None
+30,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,Q,7,CONT.,58,13,18,C,B,None
+31,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,7,CONT.,94,12,24,B,D,standing dead
+1,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,Q,8,CONT.,175,12,25,B,B,vine +
+2,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,Q,8,CONT.,119,18,25,B,B,None
+3,Jan-04,Sucupira-amarela,Diplotropis purpurea (Rich.) Amschoff,Fabaceae,tree,Q,8,CONT.,137,12,14,D,D,standing dead
+4,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,Q,8,CONT.,102,12,18,C,A,termites
+1,Jan-04,Jatoba,Hymenaea sp,Caesalpinaceae,tree,Q,9,CONT.,41,8,15,B,B,vine +
+2,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,45,4,12,C,A,None
+3,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,41,8,15,C,A,None
+4,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,9,CONT.,44,10,15,C,B,None
+5,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,54,7,12,D,C,None
+6,Jan-04,Limaozinho,Rheedia sp,Clusiaceae,tree,Q,9,CONT.,94,15,20,B,A,None
+7,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,74,8,15,C,B,None
+8,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,137,20,30,A,A,None
+9,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,9,CONT.,44.5,8,12,D,A,None
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,9,CONT.,97.5,18,22,A,B,None
+11,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,9,CONT.,39,8,15,C,B,None
+12,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,Q,9,CONT.,59,9,15,D,A,termites
+13,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,42,6,15,D,A,None
+14,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,9,CONT.,88,10,20,B,A,None
+15,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,39,8,12,B,A,None
+16,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,9,CONT.,48,8,15,C,A,None
+17,Jan-04,Aroeira,Astronium sp,Anacardiaceae,tree,Q,9,CONT.,98,6,18,C,B,None
+18,Jan-04,Jatoba-mirim,Hymenaea sp,Caesalpinaceae,tree,Q,9,CONT.,211,10,25,B,C,None
+19,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,99,5,22,B,B,None
+20,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,9,CONT.,43,6,12,B,D,None
+21,Jan-04,Caixeta,Simaruba amara Aubl.,Simaroubaceae,tree,Q,9,CONT.,208,30,35,A,A,None
+22,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,9,CONT.,47,6,15,C,B,None
+23,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,Q,9,CONT.,160,15,25,B,B,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,10,CONT.,138,8,15,C,B,vine +
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,10,CONT.,104,18,25,B,A,None
+3,Jan-04,Paineira,Ceiba pentandra,Bombacaceae,tree,Q,10,CONT.,139,20,30,A,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,10,CONT.,117,8,18,B,A,None
+5,Jan-04,Pataua,Oenocarpus bataua Mart.,Arecaceae,palm,Q,10,CONT.,155,12,25,B,A,None
+6,Jan-04,Jatoba,Hymenaea sp,Caesalpinaceae,tree,Q,10,CONT.,180,15,25,B,A,None
+7,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,10,CONT.,118,14,25,B,A,None
+1,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,Q,11,CONT.,53,7,11,D,B,None
+2,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,11,CONT.,59,4.5,11.5,C,D,None
+3,Jan-04,Caferana,Coussarea paniculata Standl.,Rubiaceae,tree,Q,11,CONT.,64,12,22,B,A,None
+4,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,11,CONT.,94,18,28,A,A,None
+5,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,Q,11,CONT.,62,5,15,D,A,None
+6,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,11,CONT.,34,10,13,D,C,None
+7,Jan-04,Ucuuba-de-sangue,Virola sp,Myristicaceae,tree,Q,11,CONT.,48,12,14,D,A,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,11,CONT.,35,45,8.5,C,A,None
+9,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,Q,11,CONT.,258,20,25,B,A,None
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,11,CONT.,69,11,19,C,A,None
+11,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,11,CONT.,40,3,10,E,D,leaning
+12,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,Q,11,CONT.,54,6,14,D,B,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,11,CONT.,73,15,19,C,A,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,11,CONT.,128,10,25,B,A,leaning
+15,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,11,CONT.,88,1.5,13.5,D,A,None
+16,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,11,CONT.,52,6,11,D,C,None
+17,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,11,CONT.,84,4.5,19.5,C,B,None
+18,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,Q,11,CONT.,45,12,15,D,B,None
+19,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,11,CONT.,34,12,15,D,B,None
+20,Jan-04,Abiurana,Pouteria sp,Sapotaceae,tree,Q,11,CONT.,235,14,29,A,A,None
+21,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,Q,11,CONT.,40,10,15,D,B,None
+22,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,11,CONT.,39,6,13,D,B,None
+23,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,Q,11,CONT.,41,11,18,C,B,None
+23,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,11,CONT.,210,-9999,1.7,-9999,-9999,Toco
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,12,CONT.,135.5,8,24,B,A,None
+2,Jan-04,Ripeira,Pouteria sp,Sapotaceae,tree,Q,12,CONT.,125,12,25,B,A,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,12,CONT.,126,12,25,B,B,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,12,CONT.,113,10,20,B,A,None
+5,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,Q,12,CONT.,160,15,15,C,A,broken off
+1,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,13,CONT.,65,6,18,C,A,vine +
+2,Jan-04,Jatoba,Hymenaea sp,Caesalpinaceae,tree,Q,13,CONT.,150,18,25,B,A,None
+3,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,13,CONT.,49,4,15,C,A,None
+4,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,Q,13,CONT.,63,12,18,C,A,None
+5,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,50,20,25,B,A,None
+6,Jan-04,Fel-de-paca,Not provided,Not provided,tree,Q,13,CONT.,76,18,22,B,A,None
+7,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,35,20,25,B,A,None
+8,Jan-04,Seringueira,Hevea brasiliensis Mull. Arq.,Euphorbiaceae,tree,Q,13,CONT.,84,8,15,C,C,termites
+9,Jan-04,Jaracatia,Jacaratia dodecaphylla,Caricaceae,tree,Q,13,CONT.,79,6,12,D,A,None
+10,Jan-04,Ipe-amarelo,Tabebuia serratifolia (Vahl) Nichols.,Bignoniaceae,tree,Q,13,CONT.,210,25,30,A,A,None
+11,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,Q,13,CONT.,41,9,14,C,A,None
+12,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,47,20,32,A,A,None
+13,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,13,CONT.,39,5,12,D,A,None
+14,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,Q,13,CONT.,108,10,20,B,B,None
+15,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,13,CONT.,139,28,33,A,B,None
+16,Jan-04,Fel-de-paca,Not provided,Not provided,tree,Q,13,CONT.,53,15,18,C,B,None
+17,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,13,CONT.,38,4,8,C,B,None
+18,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,37,6,8,C,A,None
+19,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,50,28,30,A,A,None
+20,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,41,28,30,A,A,None
+21,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,13,CONT.,39,9,12,D,A,None
+22,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,13,CONT.,51,8,15,C,B,None
+23,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,51,25,30,A,A,None
+24,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,13,CONT.,41,3,10,C,A,None
+25,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,13,CONT.,41,25,30,A,A,None
+26,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,13,CONT.,102,6,18,C,B,None
+27,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,13,CONT.,67,15,20,B,A,None
+28,Jan-04,Embireira-branca,Xylopia sp,Annonaceae,tree,Q,13,CONT.,40,6,12,D,A,None
+1,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,Q,14,CONT.,110,10,25,B,B,vine +
+2,Jan-04,Cerejeira,Torresia acreana Ducke,Fabaceae,tree,Q,14,CONT.,215,18,30,A,A,None
+3,Jan-04,Massaranduba,Manilkara sp,Sapotaceae,tree,Q,14,CONT.,268,12,25,B,A,None
+1,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,Q,15,CONT.,58,10,15,C,B,vine +++
+2,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,15,CONT.,37,18,20,B,A,leaning
+3,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,Q,15,CONT.,54,2.3,15,C,D,bifurcated stem
+4,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,Q,15,CONT.,44,10,15,C,A,None
+5,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,15,CONT.,94,2.5,12,D,A,None
+6,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,15,CONT.,49,10,15,C,B,None
+7,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,15,CONT.,54,6,15,C,A,None
+8,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,15,CONT.,52,25,18,C,A,None
+9,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,15,CONT.,48,6,7,E,A,None
+10,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,15,CONT.,150,3,25,B,C,None
+11,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,15,CONT.,37,6.5,12,C,C,None
+12,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,15,CONT.,42,4,15,C,A,None
+13,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,15,CONT.,118,25,28,A,C,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,15,CONT.,115,8,25,B,A,None
+15,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,15,CONT.,57,4,5,E,C,bifurcated stem
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,15,CONT.,39,12,16,C,B,None
+17,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,15,CONT.,39,15,18,C,A,None
+18,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,15,CONT.,47,15,18,C,A,None
+19,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,15,CONT.,58,6,15,C,A,None
+20,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,15,CONT.,51,12,-9999,D,D,broken off
+21,Jan-04,Sumauma,Ceiba samauma K. Schum.,Bombacaceae,tree,Q,15,CONT.,52,12,16,C,B,None
+22,Jan-04,Angico,Anadenanthera macrocarpa (Bentham) Brenan,Mimosaceae,tree,Q,15,CONT.,136,12,20,B,A,None
+23,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,15,CONT.,82,8,20,B,B,None
+1,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,26,CONT.,137,8,25,A,B,None
+2,Jan-04,Leiteira,Pouteria sp,Sapotaceae,tree,Q,26,CONT.,155,20,30,A,A,None
+3,Jan-04,Cerejeira,Torresia acreana Ducke,Fabaceae,tree,Q,26,CONT.,212,25,35,A,A,None
+4,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,26,CONT.,120,25,30,A,B,None
+5,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,Q,26,CONT.,175,20,25,A,B,None
+1,Jan-04,Embireira-da-casca-fina,Not provided,Not provided,tree,Q,27,CONT.,47,10,13,D,C,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,27,CONT.,44,7,13,D,C,None
+3,Jan-04,Louro-freijo,Cordia sp,Boraginaceae,tree,Q,27,CONT.,63,10,14,D,B,None
+4,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,27,CONT.,64,12,17,C,B,None
+5,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,Q,27,CONT.,50,-9999,17,D,A,Toco
+6,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,27,CONT.,137,17,20,C,C,standing dead
+7,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,27,CONT.,150,10,22,B,D,None
+8,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,27,CONT.,99,8,14,D,C,None
+9,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,27,CONT.,48,10,13,D,E,None
+10,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,27,CONT.,51,2.5,10.5,D,B,None
+11,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,27,CONT.,49,7,13,D,B,None
+12,Jan-04,Jatoba,Hymenaea sp,Caesalpinaceae,tree,Q,27,CONT.,79,18,25,A,A,None
+13,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,Q,27,CONT.,45,7,13,D,B,None
+14,Jan-04,Canela-de-velho,Cenostigma macrophyllum Tul.,Caesalpinaceae,tree,Q,27,CONT.,35,5,9,C,B,None
+15,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,27,CONT.,75,11,19,C,B,None
+16,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,27,CONT.,34,7,10,E,C,27
+17,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,27,CONT.,109,8,20,B,A,None
+18,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,27,CONT.,51,9,19,C,D,None
+19,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,27,CONT.,122,10,22,B,A,None
+20,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,27,CONT.,39,7,12,D,D,None
+21,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,Q,27,CONT.,134,10,22,B,A,None
+22,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,27,CONT.,65,11,17,C,D,None
+23,Jan-04,Farinha-seca,Albizia hasslerri (Chodat) Burkart.,Mimosaceae,tree,Q,27,CONT.,60,4,12,D,C,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,28,CONT.,146,9,20,B,B,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,28,CONT.,141,12,25,B,A,None
+3,Jan-04,Itauba,Mezilaurus itauba (Meisn.) Taub. Ex Mez,Lauraceae,tree,Q,28,CONT.,141,10,25,B,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,28,CONT.,117,6,25,B,B,None
+5,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,Q,28,CONT.,145,25,30,A,A,None
+6,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,28,CONT.,170,8,25,B,B,None
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,29,CONT.,47,2,2,E,D,standing dead
+2,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,Q,29,CONT.,114,15,20,B,B,None
+3,Jan-04,Quina-doce,Antonia sp,Loganiaceae,tree,Q,29,CONT.,47,8,12,D,D,None
+4,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,29,CONT.,33,12,15,C,B,None
+5,Jan-04,Angico,Anadenanthera macrocarpa (Bentham) Brenan,Mimosaceae,tree,Q,29,CONT.,142,5,18,C,A,termites
+6,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,29,CONT.,62,4,15,C,B,None
+7,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,29,CONT.,35,12,16,C,A,None
+8,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,29,CONT.,50,5,15,C,B,None
+9,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,29,CONT.,41,3,12,D,D,broken off
+10,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,29,CONT.,42.5,8,15,D,A,None
+11,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,29,CONT.,42.6,5,12,D,A,None
+12,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,29,CONT.,112,8,18,C,B,None
+13,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,Q,29,CONT.,45,9,15,C,B,None
+14,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,29,CONT.,63,3,15,C,B,None
+15,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,29,CONT.,83,12,15,C,A,None
+16,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,Q,29,CONT.,47,7,15,C,B,None
+17,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,29,CONT.,52,10,18,C,B,None
+18,Jan-04,Limaozinho,Rheedia sp,Clusiaceae,tree,Q,29,CONT.,34,4,12,D,A,None
+19,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,Q,29,CONT.,57,11,15,C,A,None
+20,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,29,CONT.,39,5,12,D,B,None
+21,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,29,CONT.,43,4,12,D,B,None
+22,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,Q,29,CONT.,170,15,25,B,B,None
+23,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,29,CONT.,39,3,15,C,D,None
+24,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,29,CONT.,47,4,15,C,A,None
+25,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,29,CONT.,38,4,15,C,B,None
+26,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,29,CONT.,45,4,15,C,C,None
+27,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,29,CONT.,83,4.5,16,C,C,None
+28,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,29,CONT.,67,0.4,12,D,D,None
+29,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,29,CONT.,39,3,15,C,C,None
+30,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,29,CONT.,70,2,2,E,D,Toco
+31,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,29,CONT.,102,10,18,C,C,None
+32,Jan-04,Castanheira,Bertholletia excelsa Humb. & Bonpl.,Lecythidaceae,tree,Q,29,CONT.,77,10,15,C,B,None
+1,Jan-04,Caroba,Jacaranda copaia (Aubl.) D. Don,Bignoniaceae,tree,Q,30,CONT.,165,28,33,A,A,vine ++
+1,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,31,CONT.,34,6,11,D,B,None
+2,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,31,CONT.,39,4,10,E,D,leaning
+3,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,31,CONT.,63,6.5,14,D,D,None
+4,Jan-04,Angelim-pedra,Hymenolobium sp,Fabaceae,tree,Q,31,CONT.,61,12,18,C,B,None
+5,Jan-04,Embireira-branca,Xylopia sp,Annonaceae,tree,Q,31,CONT.,52,20,24,B,A,None
+6,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,Q,31,CONT.,122,12,20,C,A,None
+7,Jan-04,Mamica-de-porca,Zanthoxylum sp,Rutaceae,tree,Q,31,CONT.,77,12,20,C,D,None
+8,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,Q,31,CONT.,53,7,15,D,B,None
+9,Jan-04,Guariuba,Clarisia racemosa Ruiz & Pav.,Moraceae,tree,Q,31,CONT.,48,10,13,D,B,None
+10,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,31,CONT.,35,9,14,D,C,None
+11,Jan-04,Tucum,Astrocaryum aculeatum G.F.W. Meyer,Arecaceae,palm,Q,31,CONT.,63,15,18,C,A,None
+12,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,31,CONT.,75,10,19,C,B,regeneration
+13,Jan-04,Angelim-branco,Andira sp,Fabaceae,tree,Q,31,CONT.,87,20,26,B,A,None
+14,Jan-04,Paxiuba,Iriartea delvidea Ruiz & Pav.,Arecaceae,palm,Q,31,CONT.,40,6,11,D,C,None
+15,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,31,CONT.,41,15,19,C,C,None
+16,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,31,CONT.,131,15,21,B,A,None
+17,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,31,CONT.,82,23,27,B,A,leaning
+18,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,31,CONT.,84,10,22,B,C,None
+19,Jan-04,Angelim-amargo,Vatairea sp,Fabaceae,tree,Q,31,CONT.,47,13,17,C,B,broken off
+20,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,31,CONT.,44,12,14,D,B,None
+21,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,31,CONT.,86,14,26,B,A,None
+22,Jan-04,Po-de-mico,Not provided,Not provided,tree,Q,31,CONT.,43,9,14,D,A,None
+23,Jan-04,Canela-bosta,Nectandra sp,Lauraceae,tree,Q,31,CONT.,44,-9999,7,E,D,Toco
+24,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,31,CONT.,59,10,15,D,B,None
+25,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,Q,31,CONT.,39,9,14,D,C,None
+26,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,31,CONT.,124,-9999,10,D,A,None
+27,Jan-04,Paineira,Ceiba pentandra,Bombacaceae,tree,Q,31,CONT.,91,12,18,C,A,None
+28,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,31,CONT.,135,20,24,B,C,None
+29,Jan-04,Guariuba,Clarisia racemosa Ruiz & Pav.,Moraceae,tree,Q,31,CONT.,65,12,24,B,A,None
+30,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,31,CONT.,90,13,18,C,A,None
+31,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,31,CONT.,68,4,14,D,A,None
+1,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,32,CONT.,128,20,24,B,A,None
+2,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,32,CONT.,135,12,24,B,A,None
+1,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,33,CONT.,47,20,23,B,A,None
+2,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,33,CONT.,56,4,12,C,C,None
+3,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,Q,33,CONT.,82,12,15,C,B,None
+4,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,Q,33,CONT.,64,3,20,D,D,bifurcated stem
+5,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,33,CONT.,39,4,8,E,C,None
+6,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,Q,33,CONT.,44,2.5,8,E,B,None
+7,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,33,CONT.,43,4,6,E,C,None
+1,Jan-04,Figueira-branca,Ficus sp,Moraceae,tree,Q,34,CONT.,215,5,20,B,B,termites
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,34,CONT.,145,10,20,B,A,vine
+1,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,91,5,8,E,C,None
+2,Jan-04,Ripeira,Pouteria sp,Sapotaceae,tree,Q,35,CONT.,61,12,18,C,A,None
+3,Jan-04,Leiteira,Pouteria sp,Sapotaceae,tree,Q,35,CONT.,68,15,20,B,A,None
+4,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,35,CONT.,38,20,20,B,A,None
+5,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,35,CONT.,60,2.8,8,E,A,None
+6,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,35,CONT.,50,8,16,C,A,None
+7,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,35,CONT.,48,20,22,B,A,None
+8,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,35,CONT.,48,4,5,E,A,broken off
+9,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,35,CONT.,101,6,6,D,D,broken off
+10,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,Q,35,CONT.,71,10,18,B,A,None
+11,Jan-04,Not identified,Not provided,Not provided,Not provided,Q,35,CONT.,49.5,6.5,13,C,A,None
+12,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,Q,35,CONT.,34,4,8,D,A,None
+13,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,Q,35,CONT.,115,8,20,B,A,None
+14,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,56,6,18,B,A,None
+15,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,Q,35,CONT.,48.5,8,15,C,B,None
+16,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,35,CONT.,45,3,4,D,D,broken off
+17,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,35,CONT.,80,4,4,D,D,broken off
+18,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,35,CONT.,46,20,23,B,A,None
+19,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,35,CONT.,117.5,22,28,A,A,None
+20,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,Q,35,CONT.,78,7,18,B,A,None
+21,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,35,CONT.,71,12,20,B,A,None
+22,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,36.3,8,12,C,A,None
+23,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,36.9,7,12,C,A,None
+24,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,36.7,8,15,C,A,None
+25,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,Q,35,CONT.,37,3,8,E,A,broken off
+26,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,Q,35,CONT.,123,8,20,B,A,termites
+27,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,Q,35,CONT.,126,20,23,B,B,None
+28,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,35,CONT.,189,23,30,A,B,None
+29,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,88,3,15,C,B,None
+30,Jan-04,Caixeta,Simaruba amara Aubl.,Simaroubaceae,tree,Q,35,CONT.,45.5,12,15,C,A,None
+31,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,Q,35,CONT.,42,4,12,C,B,None
+32,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,Q,35,CONT.,47,8,12,C,A,None
+33,Jan-04,Cega-corrente,Not provided,Moraceae,tree,Q,35,CONT.,69.3,17,20,B,A,None
+34,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,35,CONT.,45,15,18,B,A,None
+35,Jan-04,Inaja,Maximiliana maripa (Aubl.) Drude,Arecaceae,palm,Q,35,CONT.,55,2,4,E,B,None
+36,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,Q,35,CONT.,40,15,20,B,A,None
+37,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,Q,35,CONT.,39,3,15,C,A,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,6,CONT.,170,10,25,B,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,6,CONT.,130,8,25,B,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,6,CONT.,149,10,28,A,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,6,CONT.,106,6,18,C,B,None
+1,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,W,7,CONT.,52,12,16,C,A,None
+2,Jan-04,Embireira,Xylopia sp,Annonaceae,tree,W,7,CONT.,53,15,20,B,D,None
+3,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,7,CONT.,80,6,21,B,A,None
+4,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,W,7,CONT.,39,16,20,B,A,None
+5,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,7,CONT.,34,4,14,D,A,None
+6,Jan-04,Sete-pernas,Iriartea exorrhiza,Arecaceae,palm,W,7,CONT.,47,8,10,D,A,None
+7,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,7,CONT.,100,5,5,E,D,Toco
+8,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,7,CONT.,46,12,16,C,A,None
+9,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,7,CONT.,106,15,21,B,A,None
+10,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,7,CONT.,136,20,23,B,A,None
+11,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,7,CONT.,100,8,26,C,B,None
+12,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,7,CONT.,105,13,22,B,A,None
+13,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,W,7,CONT.,45,18,22,B,A,None
+14,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,W,7,CONT.,46,18,22,B,A,None
+15,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,7,CONT.,35,8,13,C,A,None
+16,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,W,7,CONT.,72,10,22,B,A,None
+17,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,7,CONT.,49,22,25,B,A,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,8,CONT.,144,18,25,B,A,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,8,CONT.,120,20,30,A,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,8,CONT.,141,12,25,B,A,None
+4,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,8,CONT.,154,18,22,B,A,termites
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,W,9,CONT.,38,7,7,E,D,Toco
+2,Jan-04,Imbauba,Cecropia sp,Cecropiaceae,tree,W,9,CONT.,56,14,18,C,A,None
+3,Jan-04,Roxinho ,Peltogyne sp,Caesalpinaceae,tree,W,9,CONT.,44,8,12,A,B,None
+4,Jan-04,Orelha-de-macaco,Enterolobium sp,Mimosaceae,tree,W,9,CONT.,87,12,25,B,A,None
+5,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,W,9,CONT.,53,4,12,C,C,None
+6,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,W,9,CONT.,39,8,10,D,B,None
+7,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,W,9,CONT.,101,8,25,B,A,None
+8,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,9,CONT.,99,20,25,B,A,None
+9,Jan-04,Canelao,Nectandra robusta Loefl.,Lauraceae,tree,W,9,CONT.,45,8,12,D,A,None
+10,Jan-04,Orelha-de-macaco,Enterolobium sp,Mimosaceae,tree,W,9,CONT.,50,8,12,B,A,None
+11,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,9,CONT.,35,4,12,D,A,None
+12,Jan-04,Borracheira/caucho,Castilloa ulei Waurg,Moraceae,tree,W,9,CONT.,46.5,8,12,D,A,None
+13,Jan-04,Acai,Euterpe precatoria,Arecaceae,palm,W,9,CONT.,52.5,7,7,E,D,Toco
+14,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,W,9,CONT.,38,4,4,E,D,Toco
+15,Jan-04,Pata-de-vaca ,Bauhinia sp,Caesalpinaceae,tree,W,9,CONT.,47,5,5,E,D,None
+16,Jan-04,Pau-formiga,Triplaris americana L.,Polygonaceae,tree,W,9,CONT.,49,7,12,D,A,None
+1,Jan-04,Imbauba-branca,Cecropia sp,Cecropiaceae,tree,W,10,CONT.,108,12,22,B,A,None
+2,Jan-04,Coracao-de-negro,Swartzia sp,Fabaceae,tree,W,10,CONT.,190,12,25,B,A,None
+3,Jan-04,Acariquara,Minquartia guianensis Aubl.,Olacaceae,tree,W,10,CONT.,113,20,25,B,A,None
+4,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,W,10,CONT.,103,7,18,C,A,None
+1,Jan-04,Not identified,Not provided,Not provided,Not provided,W,12,CONT.,160,6,6,C,D,Toco
+1,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,W,13,CONT.,74,6,18,C,B,None
+2,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,W,13,CONT.,45,12,15,C,C,None
+3,Jan-04,Orelha-de-macaco,Enterolobium sp,Mimosaceae,tree,W,13,CONT.,49,6,12,D,A,None
+4,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,W,13,CONT.,37,3,12,D,A,None
+5,Jan-04,Cupui,Theobroma sp,Sterculiaceae,tree,W,13,CONT.,52,3,10,E,B,None
+6,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,W,13,CONT.,45,4,10,E,A,None
+7,Jan-04,Guarantã,Esenbeckia leiocarpa Engl.,Rutaceae,tree,W,13,CONT.,64,12,20,B,A,None
+8,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,13,CONT.,51,4,12,D,A,None
+9,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,13,CONT.,48,8,25,B,A,None
+10,Jan-04,Tres-folhas,Metrodorea sp,Rutaceae,tree,W,13,CONT.,42,3,12,E,C,None
+11,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,W,13,CONT.,71,10,21,B,A,None
+12,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,13,CONT.,42,4,12,D,A,None
+13,Jan-04,Garrote,Bagassa guianensis Aubl.,Moraceae,tree,W,13,CONT.,38,8,12,D,B,None
+14,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,13,CONT.,137,20,30,A,A,None
+15,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,13,CONT.,60,8,12,D,B,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,13,CONT.,110,6,20,B,A,None
+1,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,14,CONT.,132,10,20,B,A,vine
+2,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,W,14,CONT.,122,8,20,B,A,None
+3,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,14,CONT.,137,8,25,B,A,None
+1,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,15,CONT.,54,15,25,B,A,None
+2,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,15,CONT.,95,8,25,B,A,None
+3,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,W,15,CONT.,41,4,12,D,A,None
+4,Jan-04,Ingazeiro,Inga sp,Mimosaceae,tree,W,15,CONT.,71,10,25,B,B,None
+5,Jan-04,Sumauma,Ceiba samauma K. Schum.,Bombacaceae,tree,W,15,CONT.,59,10,15,C,A,None
+6,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,15,CONT.,103,15,25,B,B,None
+7,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,15,CONT.,220,10,25,B,B,None
+8,Jan-04,Orelha-de-macaco,Enterolobium sp,Mimosaceae,tree,W,15,CONT.,215,20,30,A,A,None
+9,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,15,CONT.,145,4,25,B,A,None
+10,Jan-04,Goiabinha,Myrcia sp,Myrtaceae,tree,W,15,CONT.,56,10,12,D,B,None
+11,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,15,CONT.,95,8,15,C,A,None
+12,Jan-04,Cedro-marinheiro,Guarea silvatica C. DC.,Meliaceae,tree,W,15,CONT.,72,8,20,C,B,None
+13,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,W,15,CONT.,40,8,12,D,B,None
+14,Jan-04,Cacau-liso,Theobroma sp,Sterculiaceae,tree,W,15,CONT.,41,6,12,D,B,None
+15,Jan-04,Canela-de-cutia,Diplokeleba floribunda N. E. Br,Sapindaceae,tree,W,15,CONT.,36,4,8,E,C,None
+16,Jan-04,Amescla-aroeira,Protium heptaphyllum,Burseraceae,tree,W,15,CONT.,60,8,12,D,A,None
+17,Jan-04,Amescla,Trattinickia sp.,Burseraceae,tree,W,15,CONT.,39,6,12,D,A,None
+2,Jan-04,Cega-corrente,Not provided,Moraceae,tree,W,14,CONT.,128,10,26,A,B,None
